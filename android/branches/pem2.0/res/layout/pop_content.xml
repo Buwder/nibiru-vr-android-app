@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="40dp"
+    android:layout_height="210dp"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+   >    
+    <TextView
+        android:id="@+id/text_volume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="14sp"
+        android:textColor="#006400"
+        android:text="12"
+        />
+    <com.zskx.pemsystem.customview.VerticalSeekBar
+        android:id="@+id/volumeSeekBar"
+        android:layout_width="13dp"
+        android:layout_height="0dp"
+        android:minHeight="6dp"
+        android:maxHeight="6dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_weight="1"
+        android:thumb="@drawable/music_bar"
+ 
+        android:max="100"
+        android:progress="0"
+        android:secondaryProgress="0"
+        android:progressDrawable="@drawable/seekbar_movie_playing"
+        android:thumbOffset="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+    
+
+</LinearLayout>

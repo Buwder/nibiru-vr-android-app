@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\incremental\\mergeBasicDebugResources\\merged.dir\\values-it-rIT\\values-it-rIT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\nibiru_studio_2_6_223.aar\\349e1ed37fd8ef17f6763255d05d3669\\res\\values-it-rIT\\values-it-rIT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,154,242,294,344,391",
+                        "endColumns": "98,87,51,49,46,91",
+                        "endOffsets": "149,237,289,339,386,478"
+                    }
+                }
+            ]
+        }
+    ]
+}

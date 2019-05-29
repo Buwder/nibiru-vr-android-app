@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_image_name">
+        <item>music</item>
+        <item>movie</item>
+        <item>relax</item>
+        <item>crisis</item>
+        <item>game</item>
+        <item>magazine</item>
+        <item>add</item>
+        <item>add</item>
+    </string-array>
+    <string-array name="menu_text_name">
+        <item>音乐治疗室</item>
+        <item>HRV心理减压</item>
+        <item>冥想放松训练</item>
+        <item>危机干预训练</item>
+        <item>发泄游戏</item>
+        <item>积极心理干预</item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+</resources>

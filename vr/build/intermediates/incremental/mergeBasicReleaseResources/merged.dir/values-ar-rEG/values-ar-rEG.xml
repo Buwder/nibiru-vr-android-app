@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">اضغط مع الاستمرار على N للمعايرة</string>
+    <string name="dialog_on_lowbattery">انخفاض البطارية، يرجى تهمة</string>
+    <string name="dialog_power_off">أغلقت مباشرة أسفل</string>
+    <string name="dialog_reboot">إعادة تشغيل</string>
+    <string name="ns_commit">حدد</string>
+    <string name="ns_repos_tip">انقر على زر موافق لضبط موقع الواجهة</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="music_menus">
+        <item>单曲循环</item>
+        <item>顺序播放</item>
+        <item>随机播放</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PemAppActivity!</string>
+    <string name="app_name">PemApp</string>
+    <string name="null_string"></string>
+    <string name="music">音乐治疗室</string>
+    <string name="hrv">HRV心理减压</string>
+    <string name="dangerStop">危机干预训练</string>
+    <string name="game">发泄游戏</string>
+    <string name="think">冥想放松训练</string>
+    <string name="positiveStop">积极心理干预</string>
+    <string name="help_sleep">助眠音乐</string>
+    <string name="clear_heart">清心音乐</string>
+    <string name="crisis">缓解焦虑</string>
+    <string name="relax">放松减压</string>
+    <string name="help_sleep_description">闭上双眼，让旋律萦绕在耳旁，\n让音符流淌在心间，与音乐一\n起安眠。</string>
+    <string name="clear_heart_description">用心聆听，感受尘世间的\n一片净土。\n</string>
+    <string name="crisis_description">让音符与心情一起跳动，让旋律\n读懂心到呼唤。\n</string>
+    <string name="relax_description">解开心中的重负，让心自\n由飞翔。\n</string>
+	<string name="movie_01">焦虑缓解训练</string>
+	<string name="movie_02">心理助眠训练</string>
+	<string name="movie_03">减压训练</string>
+	<string name="movie_04">肌肉放松训练</string>
+	<string name="relax_01">白云冥想</string>
+	<string name="relax_02">草地冥想</string>
+	<string name="relax_03">海浪冥想</string>
+	<string name="relax_04">天空冥想</string>
+	<string name="crisis_01">人生两条路</string>
+	<string name="crisis_02">悲欢一念间</string>
+	<string name="crisis_03">绝境重生</string>
+	<string name="crisis_04">人无绝境</string>
+	<string name="game_01">发泄俱乐部</string>
+	<string name="game_02">气球人</string>
+	<string name="game_03">人生抉择</string>
+	<string name="game_04">习得性无助</string>
+</resources>

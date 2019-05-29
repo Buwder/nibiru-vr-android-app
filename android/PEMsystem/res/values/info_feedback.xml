@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="info_feedback">信息反馈</string>
+    <string name="top_title">标题</string>
+    <string name="content">内容</string>
+    <string name="send_info">发送</string>
+    <string name="input_title">输入标题</string>
+    <string name="input_content">输入内容</string>
+    <string name="feed_access_network_ok">数据提交成功！</string>
+    <string name="feed_access_network_failed">数据提交失败！</string>
+</resources>

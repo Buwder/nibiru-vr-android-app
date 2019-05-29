@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/test_single_question"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="请选择您的性别:"
+        android:textColor="@color/black"
+        android:textSize="18.0sp" 
+        android:layout_marginLeft="10dp"
+        />
+
+    <RadioGroup
+        android:id="@+id/test_radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/test_single_question"
+        android:layout_margin="10dp"
+        android:contentDescription="singleCheck" >
+
+        
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:button="@drawable/radio_button_selector"
+            android:checked="true"
+            android:drawableRight="@drawable/radio_button_selector_back"
+            android:text="男321321321"
+            android:textColor="@color/DimGray" 
+            android:layout_margin="10dp"
+            />
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/radio_button_selector"
+            android:drawableRight="@drawable/radio_button_selector_back"
+            android:text="女12312321"
+            android:textColor="@color/DimGray" 
+            android:layout_margin="10dp"
+            />
+    </RadioGroup>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10.0dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/test_single_previous"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10.0dip"
+            android:text="@string/test_single_prev"
+            android:textColor="@color/black"
+            android:textSize="17.0sp" />
+
+        <Button
+            android:id="@+id/test_single_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="@string/test_single_next"
+            android:textColor="@color/black"
+            android:textSize="17.0sp" />
+    </LinearLayout>
+
+</RelativeLayout>

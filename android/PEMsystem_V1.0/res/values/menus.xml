@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_home_page">主页</string>
+    <string name="menu_edit_password">修改密码</string>
+    <string name="menu_edit_info">编辑资料</string>
+    <string name="menu_help">帮助</string>
+    <string name="menu_about_us">关于我们</string>
+    <string name="menu_exit">退出</string>
+    <string name="menu_psychotest">心理测评</string>
+</resources>

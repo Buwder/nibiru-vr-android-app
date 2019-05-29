@@ -1,0 +1,164 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <SurfaceView
+        android:id="@+movie/surface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+	<FrameLayout 
+	    android:id="@+movie/progress_buffer"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    >
+	    <ProgressBar 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        />
+	</FrameLayout>
+    
+    <RelativeLayout
+        android:id="@+movie/contrller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        >
+
+        <TextView
+            android:id="@+movie/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:padding="3dp"
+            android:singleLine="true"
+            android:text="1234"
+            android:textColor="@color/white"
+            android:textSize="15sp" 
+            android:background="@drawable/player_control_top_bg"
+            />
+
+        <LinearLayout
+            android:id="@+movie/lyt_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" 
+            android:background="@drawable/player_control_bottom_bg"
+            >
+
+            <RelativeLayout
+                android:id="@+movie/seekbar_lyt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_above="@+movie/buttons" 
+                android:background="@drawable/player_control_play_background"
+                >
+
+                <TextView
+                    android:id="@+movie/text_current"
+                    style="@style/movie_play_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="0dp" />
+
+                <SeekBar
+                    android:id="@+movie/seelbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_toLeftOf="@+movie/text_all"
+                    android:layout_toRightOf="@+movie/text_current"
+                    android:maxHeight="8dp"
+                    android:minHeight="8dp"
+                    android:paddingLeft="-10dip"
+                    android:paddingRight="-10dip"
+                    android:progressDrawable="@drawable/seekbar_movie_playing"
+                    android:thumb="@drawable/select_movie_playing_thum"
+                    android:thumbOffset="0dip" />
+
+                <TextView
+                    android:id="@+movie/text_all"
+                    style="@style/movie_play_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="0dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+movie/buttons"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:background="@drawable/player_control_play_bg"
+                >
+
+                <Button
+                    android:id="@+movie/prev"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="5dp"
+                    android:layout_toLeftOf="@+movie/play_pause"
+                    android:background="@drawable/select_movie_playing_control_btn_prev" />
+
+                <Button
+                    android:id="@+movie/play_pause"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/select_movie_playing_control_btn_play" />
+
+                <Button
+                    android:id="@+movie/ff"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="5dp"
+                    android:layout_toRightOf="@+movie/play_pause"
+                    android:background="@drawable/select_movie_playing_control_btn_next" />
+
+                <Button
+                    android:id="@+movie/volume"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+movie/play_pause"
+                    android:layout_alignTop="@+movie/buttons"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dp"
+                   android:background="@drawable/phone_480_sound_on"
+                    
+                    android:layout_toLeftOf="@+movie/seekbar_vol"
+                    />
+               <!--  android:background="@drawable/select_movie_playing_control_btn_voice"  -->
+                <SeekBar 
+                    android:id="@+movie/seekbar_vol"
+                    android:layout_width="70dp"
+                    android:layout_height="wrap_content"
+                    android:maxHeight="8dp"
+                    android:minHeight="8dp"
+                    android:paddingLeft="-10dip"
+                    android:paddingRight="-10dip"
+                    android:progressDrawable="@drawable/seekbar_movie_playing"
+                    android:thumb="@drawable/music_panel_seekbar_thumb"
+                    android:thumbOffset="0dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_centerVertical="true"
+                    />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</FrameLayout>

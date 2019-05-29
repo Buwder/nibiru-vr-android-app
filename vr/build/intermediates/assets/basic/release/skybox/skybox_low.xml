@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skyboxs>
+    <skybox_sphere name="main_scene" imagepath="changjing1.png" isDefault="true"/>
+    <!--<skybox_cube name="main_scene" isDefault="true">-->
+        <!--<face pos="back" imagepath="cube2/back.png" ></face>-->
+        <!--<face pos="front" imagepath="cube2/front.png" ></face>-->
+        <!--<face pos="up" imagepath="cube2/up.png" ></face>-->
+        <!--<face pos="down" imagepath="cube2/down.png" ></face>-->
+        <!--<face pos="left" imagepath="cube2/left.png" ></face>-->
+        <!--<face pos="right" imagepath="cube2/right.png" ></face>-->
+    <!--</skybox_cube>-->
+</skyboxs>

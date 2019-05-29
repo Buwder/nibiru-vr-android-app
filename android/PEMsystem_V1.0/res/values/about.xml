@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_versionName">版本：PEM Mobile  %1$s</string>
+    <string name="about_copyright">中盛凯新版权所有</string>
+    <string name="about_confirm">确定</string>
+    <string name="about_copyright_bottom">Copyright © PEM 2012</string>
+    <string name="about_title">关于我们</string>
+</resources>

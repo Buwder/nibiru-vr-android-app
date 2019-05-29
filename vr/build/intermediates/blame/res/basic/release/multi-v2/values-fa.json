@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\incremental\\mergeBasicReleaseResources\\merged.dir\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\nibiru_studio_2_6_223.aar\\1c33738c080a166d7c3a11300a0a984a\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,152,226,277,335,377",
+                        "endColumns": "96,73,50,57,41,78",
+                        "endOffsets": "147,221,272,330,372,451"
+                    },
+                    "to": {
+                        "startLines": "17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1681,1778,1852,1903,1961,2003",
+                        "endColumns": "96,73,50,57,41,78",
+                        "endOffsets": "1773,1847,1898,1956,1998,2077"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e4e96b7bae3e673aa0b53aee4016fc5b\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,166,276,402,505,616,704,807,922,1034,1137,1235,1345,1448,1557",
+                        "endColumns": "109,109,125,102,110,87,102,114,111,102,97,109,102,108,124",
+                        "endOffsets": "161,271,397,500,611,699,802,917,1029,1132,1230,1340,1443,1552,1677"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,165,275,401,504,615,703,806,921,1033,1136,1234,1344,1447,1556",
+                        "endColumns": "109,109,125,102,110,87,102,114,111,102,97,109,102,108,124",
+                        "endOffsets": "160,270,396,499,610,698,801,916,1028,1131,1229,1339,1442,1551,1676"
+                    }
+                }
+            ]
+        }
+    ]
+}

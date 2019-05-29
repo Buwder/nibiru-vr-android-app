@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HELP">帮助</string>
+    <string name="help_system_introduce">PEM将为你提供360度全方位心理体检服务，为你提供专业的测试报告、丰富个性化的视听干预产品，让您更了解自己，做最好的自己。快快开启PEM，你的幸福生活，将从这一刻开始！</string>
+    <string name="help_system_introduce_title">系统介绍</string>
+    <string name="help_document">帮助文档</string>
+    <string name="help_document_content">
+1、心理测评：让您全面评估心理健康水平及积极心理品质。\r\n
+2、测评报告：智能系统为您即时生成心理测评报告。\r\n
+3、音乐治疗：用旋律让您忘记烦恼，用音符疗愈您疲惫的心灵。\r\n
+4、心理训练：增强您抗压抗挫能力，提升幸福指数。\r\n
+5、减压系列：让您随时随地减轻压力，享受轻松生活。\r\n
+6、积极心理：让您用积极视角看待生活，提升您心理正能量。</string>
+    <string name="help_back">返回</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reprot_list">测评列表</string>
+    <string name="report_account">总计%1$d份</string>
+    <string name="report_item_title">学医学院心理学</string>
+    <string name="report_item_content">如果你希望梦到某个对象，上床后就集中注意力在这个对象上。由于梦侧重现&#8230;</string>
+    <string name="access_network_failed">访问网络失败！</string>
+    <string name="zearo_count">无数据</string>
+    <string name="refresh">点击刷新</string>
+    <string name="loaded_finish">数据加载完毕</string>
+
+</resources>

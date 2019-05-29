@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="mental_training">心理训练</string>
+    <string name="movie_type_mental_training">心理训练</string>
+    <string name="movie_type_decompression">减压系列</string>
+    <string name="movie_series_no_data">无数据</string>
+    <string name="movie_series_access_network_failed">网络访问失败！</string>
+    <string name="load_accomplished">数据已全部加载!</string>
+    
+</resources>

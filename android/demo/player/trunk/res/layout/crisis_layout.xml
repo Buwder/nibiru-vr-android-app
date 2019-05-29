@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zskx="http://schemas.android.com/apk/res/com.zskx.activity"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <FrameLayout
+        android:id="@+id/videoLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="200" >
+
+        <com.zskx.view.video.MyVideoView
+            android:id="@+id/videoPlayer"
+            android:layout_width="650dip"
+            android:layout_height="520dip"
+            />
+       
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical" >
+
+            <com.zskx.view.video.VideoMenuItem
+                android:id="@+id/crisis_01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                zskx:imageSrc="@drawable/crisis_pic01"
+                zskx:textId="@string/crisis_01" />
+
+            <com.zskx.view.video.VideoMenuItem
+                android:id="@+id/crisis_02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                zskx:imageSrc="@drawable/crisis_pic02"
+                zskx:textId="@string/crisis_02" />
+
+            <com.zskx.view.video.VideoMenuItem
+                android:id="@+id/crisis_03"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                zskx:imageSrc="@drawable/crisis_pic03"
+                zskx:textId="@string/crisis_03" />
+
+            <com.zskx.view.video.VideoMenuItem
+                android:id="@+id/crisis_04"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                zskx:imageSrc="@drawable/crisis_pic04"
+                zskx:textId="@string/crisis_04" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

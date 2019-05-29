@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/home/demo/workspace/ffmpeg/jni/libffmpeg
+
+Name: libavutil
+Description: FFmpeg utility library
+Version: 50.19.0
+Requires: 
+Conflicts:
+Libs: ${libdir}/libavutil.a 
+Cflags: -I${includedir}

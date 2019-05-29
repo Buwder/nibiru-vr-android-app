@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/chat_title"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/login_title_bg" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="7dp"
+            android:background="@drawable/back_btn_bg" />
+
+        <TextView
+            android:id="@+id/chat_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/chat_despription"
+            android:layout_centerInParent="true"
+            android:text="@string/index_psycho_consult"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/chat_despription"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/chat_refresh_btn_selector" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/chat_list_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/chat_bottom"
+        android:layout_below="@+id/chat_title" 
+        android:background="@drawable/chat_bg_01"
+        >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/chat_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        android:background="@drawable/chat_bottom_bg"
+        android:gravity="center_vertical"
+        >
+
+        <EditText
+            android:id="@+id/chat_txt_msg"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/chat_bottom_input"
+            android:text="123"
+            android:textColor="@color/black"
+            android:textSize="15sp" 
+            android:singleLine="true"
+            android:inputType="text"
+            android:layout_marginLeft="3dp"
+            />
+
+        <Button
+            android:id="@+id/chat_btn_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:background="@drawable/chat_bottom_sendbtn_selector"
+            android:text="@string/chat_send_btn"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:layout_margin="3dp"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

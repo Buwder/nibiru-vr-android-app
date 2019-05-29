@@ -1,0 +1,1126 @@
+[
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_icon_1.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-hdpi_icon_1.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-hdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\raw_grid_fragment.shader.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\raw\\grid_fragment.shader"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\raw_light_vertex.shader.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\raw\\light_vertex.shader"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxxhdpi_icon_1.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxxhdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_icon_1.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-mdpi_icon_1.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-mdpi\\icon_1.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-mdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xhdpi_jpg_test.jpg.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xhdpi\\jpg_test.jpg"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_voice_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-mdpi_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\raw_passthrough_fragment.shader.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\raw\\passthrough_fragment.shader"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_activity_chooser_view_include.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\generated\\res\\pngs\\basic\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_black_70.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\black_70.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-hdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xhdpi_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout-v11_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-mdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_test_activity.xml.flat",
+        "source": "E:\\Android\\project\\PEM-MXXL\\vr\\src\\main\\res\\layout\\test_activity.xml"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-hdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-ldrtl-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-mdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\drawable-xxxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\res\\merged\\basic\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\fe88f84cccc44efa71e5ce8c7ef917e9\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]

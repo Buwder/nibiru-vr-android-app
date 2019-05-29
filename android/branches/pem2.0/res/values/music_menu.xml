@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="music_item_title">放松音乐</string>
+    <string name="music_item_introduction">通过放松音乐可以放送心情，缓解情绪紧张，有益于身心健康。</string>
+    <string name="no_music_items">暂无音乐</string>
+    
+    <string name="music_menu_single">单曲循环</string>
+    <string name="music_menu_shuffle">随机播放</string>
+    <string name="music_menu_circle">列表循环</string>
+    <string name="music_menu_order">顺序播放</string>
+    <string name="music_menu_startwithplaying">启动时播放</string>
+    <string name="music_menu_markposition">退出记录播放位置</string>
+    <string name="music_fifo">音量淡入淡出</string>
+</resources>

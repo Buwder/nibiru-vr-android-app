@@ -1,0 +1,19 @@
+<resources>
+	<string name="music_play">音乐播放</string>
+	<string name="music_list">音乐列表</string>
+	<string name="music_playing">正在播放</string>
+	<string name="music_menu">菜单</string>
+	<string name="music_item_1">抗压抗挫</string>
+	<string name="music_item_2">远离抑郁</string>
+	<string name="music_item_3">不再焦虑</string>
+	<string name="music_item_4">危机干预</string>
+	<string name="music_item_5">社会适应</string>
+	<string name="music_item_6">积极心态</string>
+	<string name="music_item_7">睡眠障碍</string>
+	<string name="music_item_8">放松减压</string>
+	<string name="music_item_9">情绪</string>
+	<string name="music_item_10">冥想音乐</string>
+	<string name="music_item_1_comment">生活的苦难压不垮我，我心中的欢乐不是我自己的，我把欢乐注进音乐，为的是让全世界感到欢乐——莫扎特</string>
+	<string name="music_item_2_comment">音乐是生活赋予我们最美好的礼物，它挤走烦恼，指引了我们快乐生活的方向。</string>
+	<string name="music_item_3_comment">音乐的神奇在于它能拨动我们的心弦，让我们在优美的旋律中畅游。</string>
+</resources>

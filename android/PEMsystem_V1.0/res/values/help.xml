@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HELP">帮助</string>
+    <string name="help_system_introduce">我不知道说啥是好！唉&#8230;一屑一顾一回头，寸寸步步断肠心。相书泪咸纸，字字别离情！\t\n今夕何夕兮，搴舟中流。 
+  今日何日兮，得与王子同舟。 
+  蒙羞被好兮，不訾诟耻。 
+  心几顽而不绝兮，得知王子。 
+  山有木兮木有枝，心说君兮君不知</string>
+    <string name="help_system_introduce_title">系统介绍</string>
+    <string name="help_document">帮助文档</string>
+    <string name="help_document_content">你让我咋说是好阿！</string>
+    <string name="help_back">返回</string>
+</resources>

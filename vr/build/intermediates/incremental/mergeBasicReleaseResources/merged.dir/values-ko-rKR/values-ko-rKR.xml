@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">보정하려면 N 키를 길게 누릅니다.</string>
+    <string name="dialog_on_lowbattery">배터리 부족, 충전하십시오</string>
+    <string name="dialog_power_off">전원 끄기</string>
+    <string name="dialog_reboot">재시작</string>
+    <string name="ns_commit">확인</string>
+    <string name="ns_repos_tip">OK버튼을 클릭하여 화면 위치 조정</string>
+</resources>

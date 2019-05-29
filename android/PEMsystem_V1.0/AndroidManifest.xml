@@ -1,0 +1,104 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zskx.pemsystem"
+    android:versionCode="1"
+    android:versionName="V1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Black.NoTitleBar"
+         >
+        <activity
+            android:name=".FlashScreenActivity"
+            android:label="@string/title_activity_main" 
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+            >
+              <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_main" 
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".FlashPlay_Activity" 
+            android:label="@string/title_psycho_train" />
+        <activity android:name=".HomeActivity" >
+        </activity>
+        <activity android:name=".Music_Activity" 
+            android:windowSoftInputMode="stateHidden|adjustPan"
+            />
+        <activity android:name=".ReportListActivity" />
+        <activity
+            android:name=".ReportDetailsActivity"
+             >
+        </activity>
+        <activity android:name=".MusicTypeChildActivity" />
+        <activity
+            android:name=".MagazineActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MagazineShowActivity"
+            android:label="@string/magazineShow"
+            >
+        </activity>
+        <activity
+            android:name=".MoviePlayerActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name=".MovieTypeActivity" >
+        </activity>
+        <activity android:name=".MovieItemsActivity" >
+        </activity>
+        <activity
+            android:name=".ModifyInfoActivity"
+            android:label="@string/modify_info" />
+        <activity
+            android:name=".FeedBackActivity"
+            android:label="@string/info_feedback"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".ModifyPasswordActivity"
+            android:label="@string/modify_password" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/settings_settings" />
+        <activity
+            android:name=".VideoPalyerActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" 
+            android:label="Player">
+            
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="about" />
+        <activity
+            android:name=".HelpActivity"
+            android:label="help" />
+        <activity 
+            android:name=".PsychoTestActivity"
+            android:label="test"  />
+        <activity 
+            android:name=".PsychoTestDoActivity"
+            android:label="dotest"  />
+        
+    </application>
+
+</manifest>

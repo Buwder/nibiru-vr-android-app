@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="magazineShow">MagazineBook</string>
+    <string name="app_name">PEMsystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">PEM</string>
+    <string name="title_test_report">测试报告</string>
+    <string name="title_musical_therapy">音乐治疗</string>
+    <string name="title_psycho_train">心理训练</string>
+    <string name="title_decompression">加压系列</string>
+    <string name="title_psycho_games">心理游戏</string>
+    <string name="title_positive_mental">积极心理</string>
+    <string name="server">Loading...</string>
+    <string name="out_of_server">用户过期，请重新登录</string>
+    <string name="index_check_report">测试报告</string>
+    <string name="index_decompression">减压系列</string>
+    <string name="index_psycho_train">心理训练</string>
+    <string name="index_positive_mental">积极心理</string>
+    <string name="index_hospital">绿色通道</string>
+    <string name="index_psycho_consult">心理咨询</string>
+    <string name="index_psycho_test">心理测评</string>
+    <string name="index_musical_therapy">音乐治疗</string>
+    <string name="index_update">正在开发中</string>
+    <string name="music_timer_title">自动关闭设置</string>
+    <string name="music_timer_shortcut">选择自动关闭时间(分钟)</string>
+    <string name="music_timer_custom">自定义设置</string>
+    <string name="music_timer_confirm">开启</string>
+    <string name="music_timer_cancle">关闭</string>
+    <string name="music_delete_success">删除歌曲成功</string>
+    <string name="music_bofang">播放</string>
+    <string name="music_fail">连接服务器失败！</string>
+    
+    <string name="test_progress">进度</string>
+    <string name="test_start">测试指导语</string>
+    <string name="test_intro">本问卷包括90个关于家庭情况的问题，请您决定哪些问题符合您家里的实际情况，哪些问题不符合您家里的实际情况。请仔细阅读题目，并根据自己的真实情况做出选择。</string>
+    <string name="test_start_button">开始测试</string>
+    <string name="test_end_text">测试完成</string>
+    <string name="test_single_prev">上一步</string>
+    <string name="test_single_next">下一步</string>
+    <string name="test_end_next">继续下一题</string>
+    <string name="test_end_report">休息一下</string>
+    <string name="test_title_guide">评测指导语</string>
+    <string name="test_title_list">评测列表</string>
+    <string name="test_title_test">评测中</string>
+    <string name="test_title_end">评测完成</string>
+    <string name="test_start_guide">指导语</string>
+    <string name="test_start_intro">简介</string>
+    <string name="test_end_no_next" />
+    <string name="test_test_checkone">请选择答案</string>
+    <string name="test_no_data">量表为空</string>
+    <string name="test_send_fail">发送失败</string>
+    <string name="test_failure">%1$s</string>
+    <string name="test_status_check">报告审核中</string>
+    <string name="test_status_reported">查看报告</string>
+    <string name="test_status_test">开始测试</string>
+    <string name="test_resend">重新提交答案</string>
+    <string name="server_overtime">用户过期，请重新登录</string>
+    <string name="test_type_no_data">没有可用量表!</string>
+    
+    
+    <string name="data_loading">加载中&#8230;</string>
+    <string name="data_complete_load">数据已全部加载！</string>
+    
+    
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Nを長押しして校正する</string>
+    <string name="dialog_on_lowbattery">バッテリーの残量が少なくなってい\nます。</string>
+    <string name="dialog_power_off">電源オフ</string>
+    <string name="dialog_reboot">再起動</string>
+    <string name="ns_commit">確定</string>
+    <string name="ns_repos_tip">「ＯＫ」ボタンを押して、画面の位置を調整します</string>
+</resources>

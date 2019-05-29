@@ -1,0 +1,54 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    
+    <style name="custom_title_bar_background">
+        <item name="android:background">#ff089ac6</item>
+    </style>
+    
+    <style name="My_App_Theme" parent="android:Theme">
+        <item name="android:windowTitleSize">50dp</item>
+        <item name="android:windowTitleBackgroundStyle">@style/custom_title_bar_background</item>
+    </style>
+    
+    <style name="text_black_blod_30sp">
+	    <item name="android:textSize">30sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ff000000</item>
+	</style>
+    
+	<style name="text_black_blod_20sp">
+	    <item name="android:textSize">20sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ff000000</item>
+	</style>
+	<style name="text_black_blod_15sp">
+	    <item name="android:textSize">15sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ff000000</item>
+	</style>
+	
+	<style name="text_white_blod_15sp">
+	    <item name="android:textSize">15sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ffffffff</item>
+	</style>
+	
+	<style name="text_white_blod_20sp">
+	    <item name="android:textSize">20sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ffffffff</item>
+	</style>
+	
+	<style name="text_black_blod_10sp">
+	    <item name="android:textSize">10sp</item>
+	    <item name="android:textStyle">bold</item>
+	    <item name="android:textColor">#ff000000</item>
+	</style>
+	
+	<style name="text_gray_12sp">
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:textColor">#ff777777</item>
+	</style>
+	
+</resources>

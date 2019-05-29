@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">PEMsystem</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">PEM</string>
+	<string name="title_test_report">测试报告</string>
+	<string name="title_musical_therapy">音乐治疗</string>
+	<string name="title_psycho_train">心理训练</string>
+	<string name="title_decompression">加压系列</string>
+	<string name="title_psycho_games">心理游戏</string>
+	<string name="title_positive_mental">积极心理</string>
+	<string name="server">加载中...</string>
+</resources>

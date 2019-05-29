@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="preMainMenuItem">
+        <attr name="image_src" format="integer"/>
+         <attr name="text_id" format="integer"/>
+    </declare-styleable>
+    <declare-styleable name="videoMenuItem">
+        <attr name="imageSrc" format="integer"/>
+         <attr name="textId" format="integer"/>
+    </declare-styleable>
+</resources>

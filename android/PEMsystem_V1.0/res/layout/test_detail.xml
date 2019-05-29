@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white" >
+
+    <com.zskx.pemsystem.util.Common_Title
+        android:id="@+id/test_detail_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/test_subtital"
+        style="@style/test_subtitle"
+        android:layout_width="fill_parent"
+        android:layout_height="45.0dip"
+        android:layout_below="@+id/test_detail_title"
+        android:background="@drawable/content_title_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="10.0dip"
+        android:text="@string/test_start" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/test_subtital"
+        android:gravity="center" >
+
+        <include layout="@layout/test_test" />
+
+        <include layout="@layout/test_start_lyt" />
+
+        <include layout="@layout/test_end_lyt" />
+
+        <include layout="@layout/loading_progress" />
+
+        <include layout="@layout/test_failure" />
+    </LinearLayout>
+
+</RelativeLayout>

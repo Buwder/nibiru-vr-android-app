@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="108dip"
+    android:background="@drawable/player_controller_background"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="27dip"
+        android:gravity="center_vertical" >
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/all_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:layout_marginRight="15dip"
+                android:button="@drawable/all_play_mode_style"
+                android:checked="true" />
+
+            <RadioButton
+                android:id="@+id/shuffle_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:layout_marginRight="15dip"
+                android:button="@drawable/shuffle_play_mode_style" />
+
+            <RadioButton
+                android:id="@+id/repeat_all_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:layout_marginRight="15dip"
+                android:button="@drawable/repeat_all_play_mode_style" />
+
+            <RadioButton
+                android:id="@+id/repeat_single_play"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dip"
+                android:layout_marginRight="15dip"
+                android:button="@drawable/repeat_single_play_mode_style" />
+        </RadioGroup>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="81dip" >
+
+        <LinearLayout
+            android:id="@+id/music_image_layout"
+            android:layout_width="80dip"
+            android:layout_height="80dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:background="@drawable/switch_background"
+            android:padding="5dip" >
+
+            <ImageView
+                android:id="@+id/music_image"
+                android:scaleType="centerInside"
+                android:layout_width="70dip"
+                android:layout_height="70dip"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/control"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/music_image_layout" >
+
+            <ImageView
+                android:id="@+id/pre_song"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:src="@drawable/prev_button_style" />
+
+            <ImageView
+                android:id="@+id/playAndpause"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:src="@drawable/play_pause_button_play_style" />
+
+            <ImageView
+                android:id="@+id/next_song"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:src="@drawable/next_button_style" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/audio_volumn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/control"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+id/audio_volumn_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:src="@drawable/audio_volumn_button_style" />
+
+            <SeekBar
+                android:id="@+id/audio_volumn_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dip"
+                android:maxHeight="32dip"
+                android:minHeight="32dip"
+                android:minWidth="170dip"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip"
+                android:progressDrawable="@drawable/audio_progress_style"
+                android:thumb="@drawable/audio_progress_thumb" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/audio_volumn"
+             >
+
+            <TextView
+                android:id="@+id/current_play_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:text="00:00"
+                android:textAppearance="@style/text_white_blod_15sp" />
+
+            <TextView
+                android:id="@+id/song_time"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:text="02:00"
+                android:textAppearance="@style/text_white_blod_15sp" />
+
+            <SeekBar
+                android:id="@+id/play_progress_bar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/song_time"
+                android:layout_toRightOf="@id/current_play_time"
+                android:maxHeight="40dip"
+                android:minHeight="40dip"
+                android:paddingLeft="5dip"
+                android:paddingRight="5dip"
+                android:progressDrawable="@drawable/progress_bar_style"
+                android:thumb="@drawable/progress_thumb" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

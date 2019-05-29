@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="50dip" >
+
+        <ImageView
+            android:id="@+music_list_item/current_play_music_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:src="@drawable/music_ps_playing"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+music_list_item/music_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:layout_toRightOf="@+music_list_item/current_play_music_icon"
+            android:text="光辉岁月"
+            android:textAppearance="@style/text_black_blod_15sp" />
+
+        <ImageView
+            android:id="@+music_list_item/delete_from_play_list_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:src="@drawable/list_delete_normal" />
+
+        <ImageView
+            android:id="@+music_list_item/add_to_play_list_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:layout_toLeftOf="@+music_list_item/delete_from_play_list_btn"
+            android:src="@drawable/list_add_normal" />
+
+        <TextView
+            android:id="@+music_list_item/song_whole_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dip"
+            android:layout_toLeftOf="@+music_list_item/add_to_play_list_btn"
+            android:text="04:50" />
+    </RelativeLayout>
+
+</LinearLayout>

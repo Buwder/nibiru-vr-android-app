@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lyt_progress"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/test_progress_bg"
+    android:visibility="visible" >
+
+    <TextView
+        android:id="@+id/test_text"
+        style="@style/test_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="5.0dip"
+        android:text="@string/test_progress" />
+
+    <ProgressBar
+        android:id="@+id/test_progress"
+        style="?@android:attr/progressBarStyleHorizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/test_progress_text"
+        android:layout_toRightOf="@+id/test_text"
+        android:maxHeight="10.0dip"
+        android:minHeight="10.0dip"
+        android:progressDrawable="@drawable/test_progress_seletor_img" />
+
+    <TextView
+        android:id="@+id/test_progress_text"
+        style="@style/test_progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5.0dip"
+        android:layout_marginRight="10.0dip"
+        android:gravity="center_vertical"
+        android:text="10/40" />
+
+</RelativeLayout>

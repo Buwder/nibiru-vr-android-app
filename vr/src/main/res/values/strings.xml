@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">冥想训练</string>
+    <string name="sample_scene_title">沉浸式冥想训练系统</string>
+    <string name="sample_scene_label">Click to Features List Scene</string>
+    <string name="sample_scene_exit_label">Exit</string>
+    <string name="edittext_hint_test">Input Text</string>
+    <string name="edittext_hint_number">Input Number</string>
+    <string name="label_test_right">Test align right</string>
+    <string name="imagetext_select_test">Test ImageText title Selected text</string>
+    <string name="imagetext_unselect_test">Test ImageText title Unselected text</string>
+    <string name="toast_test">Test Toast</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_goto">Goto</string>
+    <string name="button_title_selected">Button Selected</string>
+    <string name="button_title_unselected">Button UnSelected</string>
+    <string name="video_replay">Replay</string>
+    <string name="video_finish">Exit</string>
+    <string name="video_type_title">Format:</string>
+    <string name="video_type_2D">2D</string>
+    <string name="video_type_3D_leftRight">3D-SBS</string>
+    <string name="video_type_3D_upDown">3D-OU</string>
+    <string name="video_model_title">Screen:</string>
+    <string name="video_model_plane">IMAX</string>
+    <string name="video_model_sphere">360°VIEW</string>
+    <string name="video_model_halfSphere">180°VIEW</string>
+    <string name="video_model_dome">Spherical</string>
+    <string name="video_loop">Loop</string>
+    <string name="video_yes">YES</string>
+    <string name="video_no">NO</string>
+    <string name="video_sure">OK</string>
+</resources>

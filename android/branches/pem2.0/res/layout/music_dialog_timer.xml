@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/music_settime_bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/music_dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/music_settime_title_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="@string/music_timer_title"
+        android:textColor="@color/black"
+        android:textSize="20sp" 
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="2dp"
+        />
+    <Button 
+        android:id="@+id/music_timer_btn_cancle_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/music_timer_cancle_dialog_selector"
+		android:layout_alignTop="@+id/music_dialog_title"
+        />
+
+    <TextView
+        android:id="@+id/music_dialog_subtitle_1"
+        style="@style/music_dialog_timer_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_dialog_title"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/music_timer_shortcut" />
+
+    <LinearLayout
+        android:id="@+id/music_dialog_subtitle_btns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_dialog_subtitle_1"
+        android:layout_marginTop="10dp"
+        android:baselineAligned="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/music_dialog_timer_btn_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_btn_1"
+                android:gravity="center"
+                android:text="5"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/music_dialog_timer_btn_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_btn_1"
+                android:gravity="center"
+                android:text="10"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/music_dialog_timer_btn_3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_btn_1"
+                android:gravity="center"
+                android:text="30"
+                android:textSize="25sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:gravity="center" >
+
+            <Button
+                android:id="@+id/music_dialog_timer_btn_4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_btn_1"
+                android:gravity="center"
+                android:text="60"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/music_dialog_subtitle_2"
+        style="@style/music_dialog_timer_subtitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_dialog_subtitle_btns"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/music_timer_custom" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/music_dialog_subtitle_2"
+        android:layout_marginTop="10dp" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/music_dialog_timer_colon"
+            android:orientation="vertical" >
+
+            <com.zskx.pemsystem.customview.MusicDialogButton
+                android:id="@+id/music_dialog_timer_h_plus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_plus" />
+
+            <EditText
+                android:id="@+id/music_dialog_timer_edit_h"
+                style="@style/music_dialog_timer_edit"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="@drawable/music_dialog_timer_edit"
+                android:gravity="center"
+                android:inputType="numberDecimal"
+                android:text="00" 
+                />
+ 
+            <com.zskx.pemsystem.customview.MusicDialogButton
+                android:id="@+id/music_dialog_timer_h_minus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_minus" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/music_dialog_timer_colon"
+            android:layout_width="25dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text=":"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+ <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/music_dialog_timer_colon"
+            android:orientation="vertical" >
+
+            <com.zskx.pemsystem.customview.MusicDialogButton
+                android:id="@+id/music_dialog_timer_m_plus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_plus" />
+
+            <EditText
+                android:id="@+id/music_dialog_timer_edit_m"
+                style="@style/music_dialog_timer_edit"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center"
+                android:text="00" 
+                android:background="@drawable/music_dialog_timer_edit"
+                />
+
+            <com.zskx.pemsystem.customview.MusicDialogButton
+                android:id="@+id/music_dialog_timer_m_minus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/music_dialog_timer_minus" />
+        </LinearLayout>
+       
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp" >
+
+        <Button
+            android:id="@+id/music_dialog_time_btn_confirm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="@string/music_timer_confirm"
+            android:textColor="@color/black"
+            android:textSize="15sp"
+            android:background="@drawable/music_dialog_time_btn_confirm_selector"
+            />
+
+        <Button
+            android:id="@+id/music_dialog_time_btn_close"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="@string/music_timer_cancle"
+            android:textColor="@color/black"
+            android:textSize="15sp" 
+            android:background="@drawable/music_dialog_time_btn_confirm_selector"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

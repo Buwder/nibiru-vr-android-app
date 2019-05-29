@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/music_player_bg" >
+
+    <ImageView
+        android:id="@+id/pre_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="40dip"
+        android:src="@drawable/pre_btn_selector" />
+
+    <ImageView
+        android:id="@+id/playOrPause"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dip"
+        android:layout_toRightOf="@id/pre_music"
+        android:src="@drawable/play_btn_selector" />
+
+    <ImageView
+        android:id="@+id/next_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dip"
+        android:layout_toRightOf="@id/playOrPause"
+        android:src="@drawable/next_btn_selector" />
+
+    <ImageView
+        android:id="@+id/reset_music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dip"
+        android:layout_toRightOf="@id/next_music"
+        android:src="@drawable/reset_selector" />
+
+    <SeekBar
+        android:id="@+id/musicbar"
+        android:layout_width="350dip"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dip"
+        android:layout_toRightOf="@id/reset_music" />
+    <TextView 
+        android:id="@+id/currentTime"
+        android:layout_marginTop="40dip"
+        android:layout_alignLeft="@id/musicbar"
+        android:layout_below="@id/musicbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/black_10sp_normal"
+        android:text="00:00"
+        />
+	<TextView 
+        android:id="@+id/allTime"
+        android:layout_marginTop="40dip"
+        android:layout_alignRight="@id/musicbar"
+        android:layout_below="@id/musicbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/black_10sp_normal"
+        
+        />
+</RelativeLayout>

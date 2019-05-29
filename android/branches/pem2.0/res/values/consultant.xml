@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="consultant_list">正在刷新咨询师列表</string>
+    <string name="consultant_nodata">抱歉，咨询师在休假</string>
+    <string name="consultant_fail">连接失败</string>
+    <string name="chat_send_btn">发送</string>
+    
+</resources>

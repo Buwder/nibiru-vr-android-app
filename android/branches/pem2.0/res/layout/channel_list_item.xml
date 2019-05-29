@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/music_list_item_state"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/channel_list_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="4dp"
+            android:paddingLeft="3dp"
+            android:layout_toLeftOf="@+id/channel_list_distance"
+            android:ellipsize="end"
+            android:text="人民医院fffffffffffffffddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddfffffffffffffffffffffffffffffff"
+            android:textColor="@color/black"
+            android:textSize="18sp" 
+            android:layout_centerVertical="true"
+            />
+
+        <TextView
+            android:id="@+id/channel_list_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center_vertical"
+            android:text="4.3km"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+</LinearLayout>

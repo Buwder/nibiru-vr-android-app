@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <SeekBar
+        android:id="@+magazineGoto/progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:maxHeight="8dp"
+        android:maxWidth="419dp"
+        android:minHeight="8dp"
+        android:minWidth="419dp"
+        android:paddingLeft="-10dip"
+        android:paddingRight="-10dip"
+        android:progressDrawable="@drawable/music_volume_seekbar_img"
+        android:thumb="@drawable/music_volume_seekbar_thumb"
+        android:thumbOffset="0dip" />
+
+    <TextView
+        android:id="@+magazineGoto/progressTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/black" />
+
+</LinearLayout>

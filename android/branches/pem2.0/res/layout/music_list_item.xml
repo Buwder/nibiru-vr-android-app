@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:descendantFocusability="blocksDescendants"
+    android:background="@drawable/music_list_item_state" 
+    >
+    
+    
+    
+    <ImageView 
+        android:id="@+id/music_type_imageview"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:src="@drawable/music_record"
+        android:layout_margin="5dp"
+        android:layout_gravity="center_vertical"
+        />
+     
+    
+    <LinearLayout 
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        
+        >
+        
+        <TextView 
+            android:id="@+id/music_type_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="@string/music_item_title"
+            />
+        <TextView 
+            android:id="@+id/music_type_intro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginLeft="5dp"
+            android:textSize="12sp"
+            android:textColor="@color/DimGray"
+            android:text="@string/music_item_introduction"
+            />
+        
+        
+    </LinearLayout>
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ico_gt"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"/>
+
+</LinearLayout>

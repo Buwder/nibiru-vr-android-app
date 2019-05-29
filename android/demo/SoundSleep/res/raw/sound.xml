@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<catolog id="qcsl" icon="/web22/img/qcsl_thomb.jpg"  styleBackImg="/web22/img/qcsl.jpg" bgmusic="/web22/music/style06/bg.mp3">
+			<file img="/web22/img/qcsl_thomb.jpg" name="打雷"  url="/web22/music/style06/1.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/qcsl_thomb.jpg" name="鸟鸣"  url="/web22/music/style06/2.mp3" volume="23" status="stop"/>
+			<file img="/web22/img/qcsl_thomb.jpg" name="微风"  url="/web22/music/style06/3.mp3" volume="47" status="stop"/>
+			<file img="/web22/img/qcsl_thomb.jpg" name="溪流"  url="/web22/music/style06/4.mp3" volume="24" status="stop"/>
+			<file img="/web22/img/qcsl_thomb.jpg" name="雨声"  url="/web22/music/style06/5.mp3" volume="0" status="stop"/>
+	</catolog>
+	<catolog id="sjxx"  icon="/web22/img/sjxx_thomb.jpg"  styleBackImg="/web22/img/sjxx.jpg" bgmusic="/web22/music/style01/bg.mp3">
+			<file img="/web22/img/sjxx_thomb.jpg" name="溪流"  url="/web22/music/style01/1.mp3" volume="30" status="stop"/>
+			<file img="/web22/img/sjxx_thomb.jpg" name="微风"  url="/web22/music/style01/2.mp3" volume="50" status="stop"/>
+			<file img="/web22/img/sjxx_thomb.jpg" name="戏水"  url="/web22/music/style01/3.mp3" volume="10" status="stop"/>
+			<file img="/web22/img/sjxx_thomb.jpg" name="打雷"  url="/web22/music/style01/4.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/sjxx_thomb.jpg" name="鸟鸣"  url="/web22/music/style01/5.mp3" volume="20" status="stop"/>
+	</catolog>
+	<catolog id="hktk"  icon="/web22/img/hktk_thomb.jpg"  styleBackImg="/web22/img/hktk.jpg" bgmusic="/web22/music/style02/bg.mp3">
+			<file img="/web22/img/hktk_thomb.jpg" name="海浪"  url="/web22/music/style02/1.mp3" volume="7" status="stop"/>
+			<file img="/web22/img/hktk_thomb.jpg" name="狂风"  url="/web22/music/style02/2.mp3" volume="2" status="stop"/>
+			<file img="/web22/img/hktk_thomb.jpg" name="鸣笛"  url="/web22/music/style02/3.mp3" volume="24" status="stop"/>
+			<file img="/web22/img/hktk_thomb.jpg" name="微风"  url="/web22/music/style02/4.mp3" volume="58" status="stop"/>
+			<file img="/web22/img/hktk_thomb.jpg" name="下雨"  url="/web22/music/style02/5.mp3" volume="0" status="stop"/>
+	</catolog>
+		<catolog id="jmsy" icon="/web22/img/jmsy_thomb.jpg"  styleBackImg="/web22/img/jmsy.jpg" bgmusic="/web22/music/style03/bg.mp3">
+			<file img="/web22/img/jmsy_thomb.jpg" name="猫叫"  url="/web22/music/style03/1.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/jmsy_thomb.jpg" name="鸟啼"  url="/web22/music/style03/2.mp3" volume="7" status="stop"/>
+			<file img="/web22/img/jmsy_thomb.jpg" name="蛐蛐"  url="/web22/music/style03/3.mp3" volume="6" status="stop"/>
+			<file img="/web22/img/jmsy_thomb.jpg" name="吹风"  url="/web22/music/style03/4.mp3" volume="35" status="stop"/>
+			<file img="/web22/img/jmsy_thomb.jpg" name="篝火"  url="/web22/music/style03/5.mp3" volume="53" status="stop"/>
+	</catolog>
+	<catolog id="lstd" icon="/web22/img/lstd_thomb.jpg"  styleBackImg="/web22/img/lstd.jpg" bgmusic="/web22/music/style04/bg.mp3">
+			<file img="/web22/img/lstd_thomb.jpg" name="驼铃"  url="/web22/music/style04/1.mp3" volume="15" status="stop"/>
+			<file img="/web22/img/lstd_thomb.jpg" name="鸟语"  url="/web22/music/style04/2.mp3" volume="37" status="stop"/>
+			<file img="/web22/img/lstd_thomb.jpg" name="溪流"  url="/web22/music/style04/3.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/lstd_thomb.jpg" name="牧羊"  url="/web22/music/style04/4.mp3" volume="22" status="stop"/>
+			<file img="/web22/img/lstd_thomb.jpg" name="下雨"  url="/web22/music/style04/5.mp3" volume="0" status="stop"/>
+	</catolog>
+	<catolog id="aabx" icon="/web22/img/aabx_thomb.jpg"  styleBackImg="/web22/img/aabx.jpg"  bgmusic="/web22/music/style05/bg.mp3">
+			<file img="/web22/img/aabx_thomb.jpg" name="车铃"  url="/web22/music/style05/1.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/aabx_thomb.jpg" name="撞钟"  url="/web22/music/style05/2.mp3" volume="12" status="stop"/>
+			<file img="/web22/img/aabx_thomb.jpg" name="微风"  url="/web22/music/style05/3.mp3" volume="40" status="stop"/>
+			<file img="/web22/img/aabx_thomb.jpg" name="脚步"  url="/web22/music/style05/4.mp3" volume="44" status="stop"/>
+			<file img="/web22/img/aabx_thomb.jpg" name="篝火"  url="/web22/music/style05/5.mp3" volume="0" status="stop"/>
+	</catolog>
+	<catolog id="tjxl" icon="/web22/img/tjxl_thomb.jpg"  styleBackImg="/web22/img/tjxl.jpg" bgmusic="/web22/music/style07/bg.mp3">
+			<file img="/web22/img/tjxl_thomb.jpg" name="驼铃"  url="/web22/music/style07/1.mp3" volume="40" status="stop"/>
+			<file img="/web22/img/tjxl_thomb.jpg" name="鸟语"  url="/web22/music/style07/2.mp3" volume="60" status="stop"/>
+			<file img="/web22/img/tjxl_thomb.jpg" name="微风"  url="/web22/music/style07/3.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/tjxl_thomb.jpg" name="戏水"  url="/web22/music/style07/4.mp3" volume="10" status="stop"/>
+            <file img="/web22/img/tjxl_thomb.jpg" name="牧羊"  url="/web22/music/style07/5.mp3" volume="10" status="stop"/>
+	</catolog>
+	<catolog id="xyxx" icon="/web22/img/xyxx_thomb.jpg"  styleBackImg="/web22/img/xyxx.jpg" bgmusic="/web22/music/style08/bg.mp3">
+			<file img="/web22/img/xyxx_thomb.jpg" name="湖水"  url="/web22/music/style08/1.mp3" volume="7" status="stop"/>
+			<file img="/web22/img/xyxx_thomb.jpg" name="划船"  url="/web22/music/style08/2.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/xyxx_thomb.jpg" name="鸟鸣"  url="/web22/music/style08/3.mp3" volume="36" status="stop"/>
+			<file img="/web22/img/xyxx_thomb.jpg" name="撞钟"  url="/web22/music/style08/4.mp3" volume="0" status="stop"/>
+            <file img="/web22/img/xyxx_thomb.jpg" name="吹风"  url="/web22/music/style08/5.mp3" volume="33" status="stop"/>
+	</catolog>
+	<catolog id="yyzx" icon="/web22/img/yyzx_thomb.jpg"  styleBackImg="/web22/img/yyzx.jpg" bgmusic="/web22/music/style09/bg.mp3">
+			<file img="/web22/img/yyzx_thomb.jpg" name="车流"  url="/web22/music/style09/1.mp3" volume="34" status="stop"/>
+			<file img="/web22/img/yyzx_thomb.jpg" name="猫叫"  url="/web22/music/style09/2.mp3" volume="0" status="stop"/>
+			<file img="/web22/img/yyzx_thomb.jpg" name="鸟鸣"  url="/web22/music/style09/3.mp3" volume="11" status="stop"/>
+			<file img="/web22/img/yyzx_thomb.jpg" name="知了"  url="/web22/music/style09/4.mp3" volume="12" status="stop"/>
+            <file img="/web22/img/yyzx_thomb.jpg" name="雨声"  url="/web22/music/style09/5.mp3" volume="0" status="stop"/>
+	</catolog>
+</root>

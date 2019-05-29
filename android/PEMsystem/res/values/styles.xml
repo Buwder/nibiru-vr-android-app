@@ -1,0 +1,20 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+
+    <style name="AnimationMusicMenu">  
+        <item name="android:windowEnterAnimation">@anim/menu_fade_in</item>  
+        <item name="android:windowExitAnimation">@anim/menu_fade_out</item>  
+    </style>  
+    
+    <style name="AnimationMusicVolume">  
+        <item name="android:windowEnterAnimation">@anim/volume_fade_in</item>  
+        <item name="android:windowExitAnimation">@anim/volume_fade_out</item>  
+    </style> 
+    
+    <style name="theme_fullScreen"> 
+        <item name="android:windowNoTitle">true</item>    
+        <item name="android:windowFullscreen">true</item>      
+    </style> 
+    
+</resources>

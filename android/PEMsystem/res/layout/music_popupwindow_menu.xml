@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    >
+        <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+         >
+    	<Button 
+    	    android:id="@+id/music_menu_button_startwithplaying"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="fill_parent"
+    	    android:background="@drawable/music_menu_button"
+    	    />
+    	 <TextView 
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:text="@string/music_menu_startwithplaying"
+    	    android:textColor="@color/black"
+    	    android:textSize="12sp"
+    	    android:layout_alignTop="@+id/music_menu_button_startwithplaying"
+    	    android:layout_alignLeft="@+id/music_menu_button_startwithplaying"
+    	    android:layout_alignBottom="@+id/music_menu_button_startwithplaying"
+    	    android:layout_marginLeft="15dp"
+    	    android:gravity="center_vertical"
+    	    />
+    	
+    	<CheckBox 
+    	    android:id="@+id/music_menu_checkbox_startwithplaying"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignTop="@+id/music_menu_button_startwithplaying"
+    	    android:layout_alignRight="@+id/music_menu_button_startwithplaying"
+    	    android:layout_alignBottom="@+id/music_menu_button_startwithplaying"
+    	    android:layout_marginRight="10dp"
+    	    android:button="@drawable/checkbox_bg"
+    	    /> 
+    </RelativeLayout>
+     <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+       >
+    	<Button 
+    	    android:id="@+id/music_menu_button_markposition"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="fill_parent"
+    	    android:background="@drawable/music_menu_button"
+    	    />
+    	<TextView 
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:text="@string/music_menu_markposition"
+    	    android:textColor="@color/black"
+    	    android:textSize="12sp"
+    	    android:layout_alignTop="@+id/music_menu_button_markposition"
+    	    android:layout_alignLeft="@+id/music_menu_button_markposition"
+    	    android:layout_alignBottom="@+id/music_menu_button_markposition"
+    	    android:layout_marginLeft="15dp"
+    	    android:gravity="center_vertical"
+    	    />
+    	
+    	<!-- <ImageView 
+    	    android:id="@+id/music_menu_image_single"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:src="@drawable/music_single_normal"
+    	    android:layout_alignTop="@+id/music_menu_button_markposition"
+    	    android:layout_alignRight="@+id/music_menu_button_markposition"
+    	    android:layout_alignBottom="@+id/music_menu_button_markposition"
+    	    android:layout_marginRight="20dp"
+    	    /> -->
+    	<CheckBox 
+    	    android:id="@+id/music_menu_checkbox_markposition"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignTop="@+id/music_menu_button_markposition"
+    	    android:layout_alignRight="@+id/music_menu_button_markposition"
+    	    android:layout_alignBottom="@+id/music_menu_button_markposition"
+    	    android:layout_marginRight="10dp"
+    	    android:button="@drawable/checkbox_bg"
+    	    />
+    </RelativeLayout>
+     <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/semi_gray"
+         >
+    	<Button 
+    	    android:id="@+id/music_menu_button_fifo"
+    	    android:layout_width="match_parent"
+    	    android:layout_height="40dp"
+    	    android:background="@drawable/music_menu_button"
+    	    
+    	    />
+    	<TextView 
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:text="@string/music_fifo"
+    	    android:textColor="@color/black"
+    	    android:textSize="12sp"
+    	    android:layout_alignTop="@+id/music_menu_button_fifo"
+    	    android:layout_alignLeft="@+id/music_menu_button_fifo"
+    	    android:layout_alignBottom="@+id/music_menu_button_fifo"
+    	    android:layout_marginLeft="15dp"
+    	    android:gravity="center_vertical"
+    	    />
+    	
+    <!-- 	<ImageView 
+    	    android:id="@+id/music_menu_image_shuffle"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:src="@drawable/music_shuffle_normal"
+    	    android:layout_alignTop="@+id/music_menu_button_fifo"
+    	    android:layout_alignRight="@+id/music_menu_button_fifo"
+    	    android:layout_alignBottom="@+id/music_menu_button_fifo"
+    	    android:layout_marginRight="20dp"
+    	    /> -->
+    	<CheckBox 
+    	    android:id="@+id/music_menu_checkbox_fifo"
+    	    android:layout_width="wrap_content"
+    	    android:layout_height="wrap_content"
+    	    android:layout_alignTop="@+id/music_menu_button_fifo"
+    	    android:layout_alignRight="@+id/music_menu_button_fifo"
+    	    android:layout_alignBottom="@+id/music_menu_button_fifo"
+    	    android:layout_marginRight="10dp"
+    	    android:button="@drawable/checkbox_bg"
+    	    />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skyboxs>
+    <skybox_sphere name="main_scene" imagepath="changjing1.ktx" isDefault="true"/>
+    <!--<skybox_cube name="main_scene" isDefault="true">-->
+        <!--<face pos="back" imagepath="cube1/sence_light1_back.png" ></face>-->
+        <!--<face pos="front" imagepath="cube1/sence_light1_front.png" ></face>-->
+        <!--<face pos="up" imagepath="cube1/sence_light1_up.png" ></face>-->
+        <!--<face pos="down" imagepath="cube1/sence_light1_down.png" ></face>-->
+        <!--<face pos="left" imagepath="cube1/sence_light1_left.png" ></face>-->
+        <!--<face pos="right" imagepath="cube1/sence_light1_right.png" ></face>-->
+    <!--</skybox_cube>-->
+    <!--<skybox_cube name="main_scene" isDefault="true">-->
+        <!--<face pos="back" imagepath="cube2/back.png" ></face>-->
+        <!--<face pos="front" imagepath="cube2/front.png" ></face>-->
+        <!--<face pos="up" imagepath="cube2/up.png" ></face>-->
+        <!--<face pos="down" imagepath="cube2/down.png" ></face>-->
+        <!--<face pos="left" imagepath="cube2/left.png" ></face>-->
+        <!--<face pos="right" imagepath="cube2/right.png" ></face>-->
+    <!--</skybox_cube>-->
+    <!--<skybox_cube name="main_scene" isDefault="true">-->
+        <!--<face pos="back" imagepath="cube_ktx/back.ktx" ></face>-->
+        <!--<face pos="front" imagepath="cube_ktx/front.ktx" ></face>-->
+        <!--<face pos="up" imagepath="cube_ktx/up.ktx" ></face>-->
+        <!--<face pos="down" imagepath="cube_ktx/down.ktx" ></face>-->
+        <!--<face pos="left" imagepath="cube_ktx/left.ktx" ></face>-->
+        <!--<face pos="right" imagepath="cube_ktx/right.ktx" ></face>-->
+    <!--</skybox_cube>-->
+</skyboxs>

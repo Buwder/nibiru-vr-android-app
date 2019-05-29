@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg01" >
+
+    <RelativeLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="40dip"
+        android:background="#10000000" >
+
+        <ImageView
+            android:id="@+id/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dip"
+            android:src="@drawable/logo" />
+
+        <ImageView
+            android:id="@+id/exit_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="40dip"
+            android:src="@drawable/ico_exit" />
+
+        <ImageView
+            android:id="@+id/time_picker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dip"
+            android:layout_toLeftOf="@id/exit_btn"
+            android:src="@drawable/ico_time" />
+    </RelativeLayout>
+<LinearLayout
+    android:id="@+id/content"
+    android:layout_centerInParent="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <RelativeLayout
+        android:id="@+id/content_list"
+        android:layout_width="143dip"
+        android:layout_height="328dip"
+        
+        android:background="@drawable/list_bg" >
+
+        <ImageView
+            android:id="@+id/up"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="2dip"
+            android:src="@drawable/btn_up" />
+
+        <ImageView
+            android:id="@+id/down"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="2dip"
+            android:src="@drawable/btn_down" />
+
+        
+
+            <ListView
+                android:id="@+id/list"
+                android:layout_width="118dip"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/down"
+                android:layout_below="@id/up"
+                android:layout_centerHorizontal="true" >
+            </ListView>
+        
+    </RelativeLayout>
+
+    <com.zskx.view.PaneleView
+        android:id="@+id/player"
+        android:layout_width="614dip"
+        android:layout_height="wrap_content"
+        android:background="@drawable/panel_bg"
+        />
+    
+</LinearLayout>
+    <LinearLayout
+        android:layout_width="755dip"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/content"
+        android:layout_below="@id/content"
+        android:layout_marginTop="20dip"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/playOrpause"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/play_start" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="550dip"
+            android:layout_marginLeft="20dip"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/show_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:layout_gravity="center_vertical"
+            android:textAppearance="@style/black_20sp_bold"
+            android:text="TextView" />
+    </LinearLayout>
+
+</RelativeLayout>

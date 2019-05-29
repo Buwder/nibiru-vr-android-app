@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#ffffffff"
+    android:orientation="vertical"
+    android:padding="10dip" >
+
+    <ImageButton
+        android:layout_width="170dip"
+        android:layout_height="130dip"
+        android:src="@drawable/pic03"
+        android:background="@android:color/transparent"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dip"
+        android:text="酒窝大道"
+        android:textAppearance="@style/text_black_blod_15sp" />
+
+</LinearLayout>

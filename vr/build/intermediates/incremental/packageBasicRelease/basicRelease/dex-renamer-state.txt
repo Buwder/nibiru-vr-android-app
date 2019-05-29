@@ -1,0 +1,4 @@
+#Thu Sep 20 10:31:24 CST 2018
+base.0=E\:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\transforms\\dex\\basic\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

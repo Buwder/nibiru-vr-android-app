@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Halten Sie N gedrückt, um zu kalibrieren</string>
+    <string name="dialog_on_lowbattery">Schwache Batterie, bitte aufladen</string>
+    <string name="dialog_power_off">Direkt Ausschalten</string>
+    <string name="dialog_reboot">Neustarten</string>
+    <string name="ns_commit">OK</string>
+    <string name="ns_repos_tip">Klicken die OK-Taste, um die Position der Schnittstelle einzustellen</string>
+</resources>

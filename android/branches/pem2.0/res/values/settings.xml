@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="settings_settings">设置</string>
+    <string name="settings_modify_password">修改密码</string>
+    <string name="settings_modify_info">修改资料</string>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+channel/map_views"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.zskx.pemsystem.util.Common_Title
+        android:id="@+channel/title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/channel_map_dialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical"
+        android:visibility="visible" 
+        android:layout_marginTop="4dp"
+        >
+
+        <EditText
+            android:id="@+id/map_location1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="本地位置" />
+
+        <EditText
+            android:id="@+id/map_location2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="717" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/map_search_bus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/channel_map_bus_selector"
+                android:paddingLeft="18dp"
+                android:text="@string/map_search_bus"
+                android:textColor="@color/white" />
+
+            <Button
+                android:id="@+id/map_search_drive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/channel_map_car_selector"
+                android:paddingLeft="18dp"
+                android:text="@string/map_search_drive"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <com.baidu.mapapi.MapView
+            android:id="@+id/bmapView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/channel_map_dialog"
+            android:clickable="true" />
+
+   		<FrameLayout 
+   		     android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_below="@+channel/title_bar"
+            android:layout_marginTop="7dp"
+              android:layout_marginRight="20dp"
+   		    >
+   		     <Button
+            android:id="@+id/channel_btn_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/channel_map_search_selector"
+            android:text="线路搜索"
+            android:textColor="@color/white" 
+            />
+   		</FrameLayout>
+	
+       
+        <Button
+            android:id="@+id/channel_btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_below="@+channel/title_bar"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="7dp"
+            android:background="@drawable/channel_map_search_selector"
+            android:text="返回"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+</LinearLayout>

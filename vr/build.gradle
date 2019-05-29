@@ -1,0 +1,61 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion '26.0.2'
+    defaultConfig {
+        applicationId "com.nibiru.studio.zskx"
+        minSdkVersion 19
+        targetSdkVersion 19
+        versionCode 0
+        versionName "0.0"
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+            jniDebuggable true
+            minifyEnabled = false
+        }
+        release {
+            minifyEnabled = false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    //添加libs文件夹
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+
+    flavorDimensions "nibiru"
+
+    productFlavors {
+        basic { //基本版
+            dimension "nibiru"
+        }
+        pro { //专业版
+            dimension "nibiru"
+        }
+    }
+}
+
+
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:21.0.3'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //For Android Studio 3.x
+    //    compile project(':xenginelib')
+    //指定Nibiru Studio的aar包名称，libs下的aar包文件名
+    compile(name: 'nibiru_studio_2_6_223', ext: 'aar')
+}

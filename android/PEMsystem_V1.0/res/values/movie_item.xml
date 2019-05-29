@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="video_is_empty">无视频！</string>
+    <string name="movie_access_network_error">访问网络失败!</string>
+    <string name="change_to_wifi">点此设置网络到 Wifi 下!</string>
+    
+</resources>

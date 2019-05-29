@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="relax_music">放松音乐</string>
+    <string name="confirm">确定</string>
+    <string name="backforward">返回</string>
+    <string name="add">添加</string>
+    <string name="delete">删除</string>
+    <string name="accomplished">添加</string>
+    
+</resources>

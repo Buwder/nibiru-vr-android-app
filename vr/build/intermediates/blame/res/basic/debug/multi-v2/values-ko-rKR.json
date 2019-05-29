@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\incremental\\mergeBasicDebugResources\\merged.dir\\values-ko-rKR\\values-ko-rKR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\nibiru_studio_2_6_223.aar\\349e1ed37fd8ef17f6763255d05d3669\\res\\values-ko-rKR\\values-ko-rKR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,133,197,248,294,335",
+                        "endColumns": "77,63,50,45,40,60",
+                        "endOffsets": "128,192,243,289,330,391"
+                    }
+                }
+            ]
+        }
+    ]
+}

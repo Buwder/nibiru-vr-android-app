@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/skin_picture_1" >
+
+     <com.zskx.ui.MusicController
+        android:id="@+music/music_controller"
+        android:layout_width="match_parent"
+        android:layout_height="108dip"
+        android:layout_alignParentBottom="true" />
+    
+    <LinearLayout 
+        android:layout_above="@music/music_controller"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        >
+    <LinearLayout
+        android:id="@+music/content"
+        android:layout_width="875dip"
+        android:layout_height="508dip"
+        android:background="@drawable/content_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+music/list_label"
+            android:gravity="center_vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/list_label_background" >
+
+            
+            <TextView
+                android:layout_marginLeft="15dip"
+                android:id="@+music/all_music_list_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@drawable/list_label_check"
+                android:textAppearance="@style/text_white_blod_15sp"
+                android:text="@string/music_menu_all_music" />
+
+            <TextView
+                android:id="@+music/play_list_title"
+                android:layout_marginLeft="10dip"
+                android:gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/list_label_not_check"
+                android:textAppearance="@style/text_white_blod_15sp"
+                android:text="@string/music_menu_play_list" />
+        </LinearLayout>
+        <FrameLayout 
+            android:id="@+music/list_content"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            >
+        <ExpandableListView 
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="20dip"
+            android:id="@+music/all_music_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="vertical"
+            android:fadingEdgeLength="5dip"
+            android:cacheColorHint="@android:color/transparent"
+            android:childDivider="@drawable/music_list_divider"
+            android:divider="@drawable/music_list_divider"
+            />
+        <ListView 
+            android:id="@+music/play_music_list"
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="20dip"
+            android:fadingEdge="vertical"
+            android:fadingEdgeLength="5dip"
+            android:layout_height="fill_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@drawable/music_list_divider"
+            android:visibility="invisible"
+            />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>
+   
+
+</RelativeLayout>

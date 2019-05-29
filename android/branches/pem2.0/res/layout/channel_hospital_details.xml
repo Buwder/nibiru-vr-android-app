@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <com.zskx.pemsystem.util.Common_Title
+        android:id="@+channel/title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+channel/title_bar"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/channal_details_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="20dp"
+            android:text="北京协和医院"
+            android:textColor="@color/black"
+            android:textSize="20sp" 
+            />
+
+        <TextView
+            android:id="@+id/channel_details_department"
+            style="@style/channel_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:text="科室: " />
+
+        <LinearLayout
+            android:id="@+id/channel_details_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/channel_details_phone_xx"
+                style="@style/channel_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="联系电话: " />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/channel_details_doctor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/channel_details_doctor_xx"
+                style="@style/channel_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="科室医生: " />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+              android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+             >
+
+            <TextView
+                android:id="@+id/channel_details_address"
+                style="@style/channel_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="地址: " 
+                android:layout_toLeftOf="@+id/channel_detail_img"
+                android:layout_alignParentLeft="true"
+                />
+
+            <ImageView
+                android:id="@+id/channel_detail_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/ico_gt" 
+                android:layout_alignParentRight="true"
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

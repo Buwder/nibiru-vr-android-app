@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <com.zskx.pemsystem.util.Common_Title
+        android:id="@+magazine/title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true" />
+
+    <RelativeLayout
+        android:id="@+magazine/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+magazine/title_bar"
+        android:background="@color/white" >
+
+        <HorizontalScrollView
+            android:id="@+magazine/type_scroll"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true" >
+
+            <LinearLayout
+                android:id="@+magazine/type_tab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" />
+        </HorizontalScrollView>
+
+        <FrameLayout
+            android:id="@+magazine/container"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+magazine/type_scroll" >
+
+            <!--
+                 <ListView
+                android:id="@+magazine/magazine_shelf"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="#00000000"
+                android:divider="@drawable/magazine_bookshelf"
+                android:visibility="gone" />
+            -->
+
+            <FrameLayout
+                android:id="@+magazine/shelf_container"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+            <TextView
+                android:id="@+magazine/data_wrong_tip"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:text="对不起，没有查到对应的数据。请重试！"
+                android:visibility="invisible" />
+            
+            <ProgressBar
+	            android:id="@+magazine/progressBar"
+	            android:indeterminateDrawable="@drawable/progress_medium"
+	            android:layout_gravity="center"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:visibility="gone"
+             />
+        </FrameLayout>
+
+        
+
+    </RelativeLayout>
+
+</RelativeLayout>

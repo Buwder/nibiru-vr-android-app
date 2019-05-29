@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list version="1.0">
+    <Panel>
+        <PanelName>Page_NumberPanel</PanelName>
+		<PanelSize>284,402</PanelSize>
+		<item>
+			<ImageName>bg_number.png</ImageName>
+			<selectImageName>bg_number.png</selectImageName>
+			<Itemsize>284,402</Itemsize>
+			<ItemCenter>142,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Null</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>number_1.png</ImageName>
+			<selectImageName>number_1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,69</ItemCenter>
+			<InputValue>,</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>0.png</ImageName>
+			<selectImageName>0_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>142,69</ItemCenter>
+			<InputValue>0</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>number_2.png</ImageName>
+			<selectImageName>number_2_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>221,69</ItemCenter>
+			<InputValue>_</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+	
+		 <item>
+			<ImageName>1.png</ImageName>
+			<selectImageName>1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,333</ItemCenter>
+			<InputValue>1</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>2.png</ImageName>
+			<selectImageName>2_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>142,333</ItemCenter>
+			<InputValue>2</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>3.png</ImageName>
+			<selectImageName>3_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>221,333</ItemCenter>
+			<InputValue>3</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>4.png</ImageName>
+			<selectImageName>4_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,245</ItemCenter>
+			<InputValue>4</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>5.png</ImageName>
+			<selectImageName>5_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>142,245</ItemCenter>
+			<InputValue>5</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>6.png</ImageName>
+			<selectImageName>6_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>221,245</ItemCenter>
+			<InputValue>6</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>7.png</ImageName>
+			<selectImageName>7_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,157</ItemCenter>
+			<InputValue>7</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>8.png</ImageName>
+			<selectImageName>8_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>142,157</ItemCenter>
+			<InputValue>8</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 <item>
+			<ImageName>9.png</ImageName>
+			<selectImageName>9_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>221,157</ItemCenter>
+			<InputValue>9</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>		 
+    </Panel>
+	
+		
+	<Panel>
+        <PanelName>Page_AssistPanel</PanelName>
+		<PanelSize>200,402</PanelSize>
+		<item>
+			<ImageName>bg_right.png</ImageName>
+			<selectImageName>bg_right.png</selectImageName>
+			<Itemsize>200,402</Itemsize>
+			<ItemCenter>100,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Null</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>hide.png</ImageName>
+			<selectImageName>hide_s.png</selectImageName>
+			<Itemsize>80,80</Itemsize>
+			<ItemCenter>100,101</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Hide</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>enter.png</ImageName>
+			<selectImageName>enter_s.png</selectImageName>
+			<Itemsize>80,80</Itemsize>
+			<ItemCenter>100,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Enter</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>del.png</ImageName>
+			<selectImageName>del_s.png</selectImageName>
+			<Itemsize>80,80</Itemsize>
+			<ItemCenter>100,334</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Delete</KeyType>
+		 </item>
+	</Panel>
+	
+	
+	<Panel>
+        <PanelName>Page_Panel_1</PanelName>
+		<PanelSize>906,402</PanelSize>
+		<item>
+			<ImageName>bg_main.png</ImageName>
+			<selectImageName>bg_main.png</selectImageName>
+			<Itemsize>906,402</Itemsize>
+			<ItemCenter>453,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Null</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>z_l.png</ImageName>
+			<selectImageName>z_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>178,157</ItemCenter>
+			<InputValue>z</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>x_l.png</ImageName>
+			<selectImageName>x_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>264,157</ItemCenter>
+			<InputValue>x</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>c_l.png</ImageName>
+			<selectImageName>c_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>350,157</ItemCenter>
+			<InputValue>c</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>v_l.png</ImageName>
+			<selectImageName>v_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>436,157</ItemCenter>
+			<InputValue>v</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>b_l.png</ImageName>
+			<selectImageName>b_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>522,157</ItemCenter>
+			<InputValue>b</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 		 
+		<item>
+			<ImageName>n_l.png</ImageName>
+			<selectImageName>n_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>608,157</ItemCenter>
+			<InputValue>n</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>m_l.png</ImageName>
+			<selectImageName>m_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>694,157</ItemCenter>
+			<InputValue>m</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>a_l.png</ImageName>
+			<selectImageName>a_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>109,245</ItemCenter>
+			<InputValue>a</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>s_l.png</ImageName>
+			<selectImageName>s_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>195,245</ItemCenter>
+			<InputValue>s</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>d_l.png</ImageName>
+			<selectImageName>d_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>281,245</ItemCenter>
+			<InputValue>d</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>f_l.png</ImageName>
+			<selectImageName>f_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>367,245</ItemCenter>
+			<InputValue>f</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		
+		<item>
+			<ImageName>g_l.png</ImageName>
+			<selectImageName>g_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>453,245</ItemCenter>
+			<InputValue>g</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>h_l.png</ImageName>
+			<selectImageName>h_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>539,245</ItemCenter>
+			<InputValue>h</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>j_l.png</ImageName>
+			<selectImageName>j_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>625,245</ItemCenter>
+			<InputValue>j</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>k_l.png</ImageName>
+			<selectImageName>k_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>711,245</ItemCenter>
+			<InputValue>k</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>l_l.png</ImageName>
+			<selectImageName>l_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>797,245</ItemCenter>
+			<InputValue>l</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		 <item>
+			<ImageName>q_l.png</ImageName>
+			<selectImageName>q_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,333</ItemCenter>
+			<InputValue>q</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>w_l.png</ImageName>
+			<selectImageName>w_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>149,333</ItemCenter>
+			<InputValue>w</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>e_l.png</ImageName>
+			<selectImageName>e_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>235,333</ItemCenter>
+			<InputValue>e</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>r_l.png</ImageName>
+			<selectImageName>r_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>321,333</ItemCenter>
+			<InputValue>r</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>t_l.png</ImageName>
+			<selectImageName>t_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>407,333</ItemCenter>
+			<InputValue>t</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>y_l.png</ImageName>
+			<selectImageName>y_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>493,333</ItemCenter>
+			<InputValue>y</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>u_l.png</ImageName>
+			<selectImageName>u_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>579,333</ItemCenter>
+			<InputValue>u</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+
+		 <item>
+			<ImageName>i_l.png</ImageName>
+			<selectImageName>i_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>665,333</ItemCenter>
+			<InputValue>i</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>o_l.png</ImageName>
+			<selectImageName>o_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>751,333</ItemCenter>
+			<InputValue>o</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>p_l.png</ImageName>
+			<selectImageName>p_l_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>837,333</ItemCenter>
+			<InputValue>p</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+
+		 
+		 <item>
+			<ImageName>caps-lock.png</ImageName>
+			<selectImageName>caps-lock-s.png</selectImageName>
+			<Itemsize>95,76</Itemsize>
+			<ItemCenter>78,157</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchChar</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>punctuation.png</ImageName>
+			<selectImageName>punctuation_s.png</selectImageName>
+			<Itemsize>95,76</Itemsize>
+			<ItemCenter>78,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchSymbol</KeyType>
+		 </item> 
+		 
+		<item>
+			<ImageName>language.png</ImageName>
+			<selectImageName>language_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>178,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchLanguage</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>Space.png</ImageName>
+			<selectImageName>Space_s.png</selectImageName>
+			<Itemsize>472,80</Itemsize>
+			<ItemCenter>467,69</ItemCenter>
+			<InputValue>&#xA0;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper_symbol1.png</ImageName>
+			<selectImageName>upper_symbol1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>756,69</ItemCenter>
+			<InputValue>,</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper_dot.png</ImageName>
+			<selectImageName>upper_dot_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>842,69</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper-del.png</ImageName>
+			<selectImageName>upper-del_s.png</selectImageName>
+			<Itemsize>128,76</Itemsize>
+			<ItemCenter>811,157</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Delete</KeyType>
+		 </item>
+	</Panel>
+	
+	<Panel>
+        <PanelName>Page_Panel_2</PanelName>
+		<PanelSize>906,402</PanelSize>
+		<item>
+			<ImageName>bg_main.png</ImageName>
+			<selectImageName>bg_main.png</selectImageName>
+			<Itemsize>906,402</Itemsize>
+			<ItemCenter>453,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Null</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>Z-.png</ImageName>
+			<selectImageName>Z_s-.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>178,157</ItemCenter>
+			<InputValue>Z</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>X.png</ImageName>
+			<selectImageName>X_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>264,157</ItemCenter>
+			<InputValue>X</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>C.png</ImageName>
+			<selectImageName>C_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>350,157</ItemCenter>
+			<InputValue>C</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>V.png</ImageName>
+			<selectImageName>V_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>436,157</ItemCenter>
+			<InputValue>V</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>B.png</ImageName>
+			<selectImageName>B_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>522,157</ItemCenter>
+			<InputValue>B</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 		 
+		<item>
+			<ImageName>N.png</ImageName>
+			<selectImageName>N_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>608,157</ItemCenter>
+			<InputValue>N</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>M.png</ImageName>
+			<selectImageName>M_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>694,157</ItemCenter>
+			<InputValue>M</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>A.png</ImageName>
+			<selectImageName>A_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>109,245</ItemCenter>
+			<InputValue>A</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>S.png</ImageName>
+			<selectImageName>S_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>195,245</ItemCenter>
+			<InputValue>S</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>D.png</ImageName>
+			<selectImageName>D_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>281,245</ItemCenter>
+			<InputValue>D</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>F.png</ImageName>
+			<selectImageName>F_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>367,245</ItemCenter>
+			<InputValue>F</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		
+		<item>
+			<ImageName>G.png</ImageName>
+			<selectImageName>G_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>453,245</ItemCenter>
+			<InputValue>G</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>H.png</ImageName>
+			<selectImageName>H_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>539,245</ItemCenter>
+			<InputValue>H</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>J.png</ImageName>
+			<selectImageName>J_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>625,245</ItemCenter>
+			<InputValue>J</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>K.png</ImageName>
+			<selectImageName>K_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>711,245</ItemCenter>
+			<InputValue>K</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>L.png</ImageName>
+			<selectImageName>L_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>797,245</ItemCenter>
+			<InputValue>L</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		 <item>
+			<ImageName>Q.png</ImageName>
+			<selectImageName>Q_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,333</ItemCenter>
+			<InputValue>Q</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>W.png</ImageName>
+			<selectImageName>W_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>149,333</ItemCenter>
+			<InputValue>W</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>E.png</ImageName>
+			<selectImageName>E_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>235,333</ItemCenter>
+			<InputValue>E</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>R.png</ImageName>
+			<selectImageName>R_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>321,333</ItemCenter>
+			<InputValue>R</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>T.png</ImageName>
+			<selectImageName>T_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>407,333</ItemCenter>
+			<InputValue>T</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>Y.png</ImageName>
+			<selectImageName>Y_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>493,333</ItemCenter>
+			<InputValue>Y</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>U.png</ImageName>
+			<selectImageName>U_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>579,333</ItemCenter>
+			<InputValue>U</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+
+		 <item>
+			<ImageName>I.png</ImageName>
+			<selectImageName>I_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>665,333</ItemCenter>
+			<InputValue>I</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>O.png</ImageName>
+			<selectImageName>O_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>751,333</ItemCenter>
+			<InputValue>O</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>P.png</ImageName>
+			<selectImageName>P_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>837,333</ItemCenter>
+			<InputValue>P</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>caps-lock.png</ImageName>
+			<selectImageName>caps-lock-s.png</selectImageName>
+			<Itemsize>95,76</Itemsize>
+			<ItemCenter>78,157</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchChar</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>punctuation.png</ImageName>
+			<selectImageName>punctuation_s.png</selectImageName>
+			<Itemsize>95,76</Itemsize>
+			<ItemCenter>78,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchSymbol</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>language.png</ImageName>
+			<selectImageName>language_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>178,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchLanguage</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>Space.png</ImageName>
+			<selectImageName>Space_s.png</selectImageName>
+			<Itemsize>472,80</Itemsize>
+			<ItemCenter>467,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper_symbol1.png</ImageName>
+			<selectImageName>upper_symbol1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>756,69</ItemCenter>
+			<InputValue>,</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper_dot.png</ImageName>
+			<selectImageName>upper_dot_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>842,69</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+	 	 <item>
+			<ImageName>upper-del.png</ImageName>
+			<selectImageName>upper-del_s.png</selectImageName>
+			<Itemsize>128,76</Itemsize>
+			<ItemCenter>811,157</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Delete</KeyType>
+		 </item>
+	</Panel>
+	
+	<Panel>
+        <PanelName>Page_Panel_3</PanelName>
+		<PanelSize>906,402</PanelSize>
+		<item>
+			<ImageName>bg_main.png</ImageName>
+			<selectImageName>bg_main.png</selectImageName>
+			<Itemsize>906,402</Itemsize>
+			<ItemCenter>453,201</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Null</KeyType>
+		 </item>
+		
+		<item>
+			<ImageName>ABC.png</ImageName>
+			<selectImageName>ABC_s.png</selectImageName>
+			<Itemsize>95,76</Itemsize>
+			<ItemCenter>78,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchCharInput</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>language.png</ImageName>
+			<selectImageName>language_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>178,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_SwitchLanguage</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>Symbol-space.png</ImageName>
+			<selectImageName>Symbol-space_s.png</selectImageName>
+			<Itemsize>367,80</Itemsize>
+			<ItemCenter>458,69</ItemCenter>
+			<InputValue>&#xA0;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		
+		 <item>
+			<ImageName>upper_symbol1.png</ImageName>
+			<selectImageName>upper_symbol1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>687,69</ItemCenter>
+			<InputValue>,</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>upper_dot.png</ImageName>
+			<selectImageName>upper_dot_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>765,69</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+	 	 <item>
+			<ImageName>upper-del.png</ImageName>
+			<selectImageName>upper-del_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>843,69</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Delete</KeyType>
+		 </item>
+		 
+		 
+		 
+		<item>
+			<ImageName>input1.png</ImageName>
+			<selectImageName>input1_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,333</ItemCenter>
+			<InputValue>.</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>input2.png</ImageName>
+			<selectImageName>input2_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>141,333</ItemCenter>
+			<InputValue>*</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input3.png</ImageName>
+			<selectImageName>input3_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>219,333</ItemCenter>
+			<InputValue>#</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input4.png</ImageName>
+			<selectImageName>input4_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>297,333</ItemCenter>
+			<InputValue>$</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input5.png</ImageName>
+			<selectImageName>input5_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>375,333</ItemCenter>
+			<InputValue>€</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input6.png</ImageName>
+			<selectImageName>input6_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>453,333</ItemCenter>
+			<InputValue>￡</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input7.png</ImageName>
+			<selectImageName>input7_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>531,333</ItemCenter>
+			<InputValue>¥</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 		 
+		 <item>
+			<ImageName>input8.png</ImageName>
+			<selectImageName>input8_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>609,333</ItemCenter>
+			<InputValue>￠</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input9.png</ImageName>
+			<selectImageName>input9_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>687,333</ItemCenter>
+			<InputValue>₡</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input10.png</ImageName>
+			<selectImageName>input10_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>765,333</ItemCenter>
+			<InputValue>%</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		 <item>
+			<ImageName>input11.png</ImageName>
+			<selectImageName>input11_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>843,333</ItemCenter>
+			<InputValue>&amp;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		<item>
+			<ImageName>input12.png</ImageName>
+			<selectImageName>input12_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,245</ItemCenter>
+			<InputValue>&lt;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+        
+		<item>
+			<ImageName>input13.png</ImageName>
+			<selectImageName>input13_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>141,245</ItemCenter>
+			<InputValue>&gt;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input14.png</ImageName>
+			<selectImageName>input14_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>219,245</ItemCenter>
+			<InputValue>[</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		
+		<item>
+			<ImageName>input15.png</ImageName>
+			<selectImageName>input15_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>297,245</ItemCenter>
+			<InputValue>]</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input16.png</ImageName>
+			<selectImageName>input16_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>375,245</ItemCenter>
+			<InputValue>(</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		
+		<item>
+			<ImageName>input17.png</ImageName>
+			<selectImageName>input17_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>453,245</ItemCenter>
+			<InputValue>)</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+
+		<item>
+			<ImageName>input18.png</ImageName>
+			<selectImageName>input18_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>531,245</ItemCenter>
+			<InputValue>'</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input19.png</ImageName>
+			<selectImageName>input19_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>609,245</ItemCenter>
+			<InputValue>'</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input20.png</ImageName>
+			<selectImageName>input20_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>687,245</ItemCenter>
+			<InputValue>"</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input21.png</ImageName>
+			<selectImageName>input21_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>765,245</ItemCenter>
+			<InputValue>"</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input22.png</ImageName>
+			<selectImageName>input22_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>843,245</ItemCenter>
+			<InputValue>@</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+
+		<item>
+			<ImageName>input23.png</ImageName>
+			<selectImageName>input23_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>63,157</ItemCenter>
+			<InputValue>\</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input24.png</ImageName>
+			<selectImageName>input24_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>141,157</ItemCenter>
+			<InputValue>/</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+	   
+		<item>
+			<ImageName>input25.png</ImageName>
+			<selectImageName>input25_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>219,157</ItemCenter>
+			<InputValue>=</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input26.png</ImageName>
+			<selectImageName>input26_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>297,157</ItemCenter>
+			<InputValue>+</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input27.png</ImageName>
+			<selectImageName>input27_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>375,157</ItemCenter>
+			<InputValue>-</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input28.png</ImageName>
+			<selectImageName>input28_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>453,157</ItemCenter>
+			<InputValue>—</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input29.png</ImageName>
+			<selectImageName>input29_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>531,157</ItemCenter>
+			<InputValue>;</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input30.png</ImageName>
+			<selectImageName>input30_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>609,157</ItemCenter>
+			<InputValue>:</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input31.png</ImageName>
+			<selectImageName>input31_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>687,157</ItemCenter>
+			<InputValue>?</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input32.png</ImageName>
+			<selectImageName>input32_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>765,157</ItemCenter>
+			<InputValue>!</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+		 
+		<item>
+			<ImageName>input33.png</ImageName>
+			<selectImageName>input33_s.png</selectImageName>
+			<Itemsize>70,80</Itemsize>
+			<ItemCenter>843,157</ItemCenter>
+			<InputValue>.com</InputValue>
+			<KeyType>KeyFunction_Inpute</KeyType>
+		 </item>
+	</Panel>
+</list>

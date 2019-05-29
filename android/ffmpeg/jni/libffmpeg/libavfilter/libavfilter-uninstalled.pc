@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/home/demo/workspace/ffmpeg/jni/libffmpeg
+
+Name: libavfilter
+Description: FFmpeg video filtering library
+Version: 1.20.0
+Requires: libavutil = 50.19.0
+Conflicts:
+Libs: ${libdir}/libavfilter.a   -lz -lm 
+Cflags: -I${includedir}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="dialog_title">退出</string>
+    <string name="dialog_message">确定退出系统？</string>
+    <string name="dialog_back">返回</string>
+    <string name="dialog_ok">确定</string>
+    
+</resources>

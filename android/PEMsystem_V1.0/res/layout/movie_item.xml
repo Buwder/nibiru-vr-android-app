@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white" >
+
+    <!--  <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/login_title_bg" >
+
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="7dp"
+            android:background="@drawable/back_btn_bg" />
+
+        <TextView
+            android:id="@+id/textView_type_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/mental_training"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+        
+        <ProgressBar
+            android:id="@+id/load_progressBar"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="8dp"
+             />
+
+    </RelativeLayout>
+
+            -->
+            <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:background="@drawable/title_bg" >
+   
+        <Button
+        android:id="@+id/home_btn"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/title_home_btn_selector" />
+        <Button
+        android:id="@+id/btn_back"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:background="@drawable/title_back_btn_selector" />
+        
+
+       
+        <TextView
+        android:id="@+id/text_title"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/home_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mental_training"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+         />
+
+        
+      
+        <ProgressBar
+        android:id="@+id/load_progressBar"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:visibility="gone"
+        />
+            
+    </RelativeLayout>
+            
+      <TextView
+        android:id="@+id/textNetWorkState"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="@string/change_to_wifi"
+        android:textColor="@color/black"
+        android:background="#B9D3EE"
+        android:gravity="center"
+        />
+     <ListView
+         android:id="@+id/listView"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:background="#00000000"
+         android:cacheColorHint="#00000000"
+         android:visibility="gone" 
+         android:footerDividersEnabled="false"
+         />
+     
+     <LinearLayout
+        android:id="@+id/linear_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        
+        >
+
+        
+        <LinearLayout 
+         android:id="@+id/linearLayout_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+         >
+            
+       <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:indeterminateDrawable="@drawable/progress_medium"
+            />
+       
+       <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/data_loading"
+             style="@style/text_tip_style"
+           />
+
+        
+       </LinearLayout>
+
+        
+        
+        <LinearLayout 
+        android:id="@+id/linearLayout_refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"
+         >
+        <TextView
+            android:id="@+id/textView_access_tip_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="@string/zearo_count"
+            style="@style/text_tip_style"
+            />
+
+        <Button
+            android:id="@+id/refresh_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/refresh"
+            android:textSize="18sp" 
+            style="@style/btn_refesh_style"/>
+        
+       </LinearLayout>
+        
+        
+    </LinearLayout>
+</LinearLayout>

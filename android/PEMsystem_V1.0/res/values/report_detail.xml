@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="report_detail_comment_report">测评报告</string>
+    <string name="basic_info">基本资料</string>
+    <string name="measurement_result">测试结果</string>
+    <string name="comment">评语</string>
+    <string name="suggestion">建议</string>
+    <string name="comment_test">　　中新网7月11日电 综合媒体11日报道，日本富士山半山腰的五合目附近，近日发现一条长30米、宽5至8厘米的裂缝。日本地震专家认为，裂缝与火山活动并无关联，但有可能引发山崩。山梨县政府决定对裂缝展开调查。
+
+　　\n       这条裂缝位于游客登富士山的聚集地五合目。东日本大地震发生后的第4天，富士山附近的静冈县东部发生6.4级地震，此后出现一条裂缝。附近的工作人员用土将裂缝填埋。但是最近，这条裂缝再度出现，而且长度达30米。
+
+　　日本火山领域专家表示，这一裂缝不是火山活动造成的，但是它位于过去火山喷发口附近容易崩塌的地方，因此在遇到地震或暴雨时可能会引发山崩等地质灾害，因此有必要进行调查。</string>
+
+    
+    <string name="report_detail_name">姓名：%1$s</string>
+    <string name="report_detail_gender">性别：%1$s</string>
+    <string name="report_detail_age">年龄：%1$s</string>
+    <string name="report_detail_company">单位：%1$s</string>
+    
+</resources>

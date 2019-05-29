@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nibiru.studio.zskx"
+    android:installLocation="internalOnly">
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--保持手机唤醒-->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name">
+
+        <receiver
+            android:name=".MyReceiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter android:priority="1000">
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="LauncherScene"
+            android:value="com.nibiru.studio.zskx.MxList" />
+
+        <meta-data
+            android:name="AllowLoading"
+            android:value="false" />
+        <!-- 配置启动图标，图标文件放在assets中，可选，只在性能较低设备加载时显示 -->
+        <meta-data
+            android:name="LoadingIcon"
+            android:value="ic_launcher-web.png" />
+    </application>
+
+</manifest>

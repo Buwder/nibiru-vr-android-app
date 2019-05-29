@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="130.0dip"
+    android:background="@drawable/test_type_item_selector"
+    android:orientation="horizontal"
+    android:padding="8.0dip" 
+    >
+
+    <ImageView
+        android:id="@+id/test_type_imageview"
+        android:layout_width="85.0dip"
+        android:layout_height="70.0dip"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="3.0dip"
+        android:src="@drawable/test_item_img" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/test_type_title"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5.0dip"
+            android:layout_marginTop="5.0dip"
+            android:text="@string/music_item_title"
+            android:textColor="@color/black"
+            android:textSize="16.0sp" />
+
+        <TextView
+            android:id="@+id/test_type_intro"
+            android:layout_width="fill_parent"
+            android:layout_height="48.0dip"
+            android:layout_above="@+id/test_type_stutas"
+            android:layout_below="@+id/test_type_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5.0dip"
+            android:layout_marginRight="5.0dip"
+            android:layout_marginTop="2.0dip"
+            android:text="@string/music_item_introduction"
+            android:textColor="@color/DimGray"
+            android:textSize="13.0sp" />
+
+        <FrameLayout
+            android:id="@+id/test_type_stutas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10.0dip" 
+            android:layout_marginRight="15dp"
+            android:layout_gravity="right"
+            >
+
+            <Button
+                android:id="@+id/test_type_test"
+                style="@style/test_type_stutas"
+                android:layout_width="70.0dip"
+                android:layout_height="25.0dip"
+                android:background="@drawable/test_start_btn_selector"
+                android:text="@string/test_status_test" 
+                 android:focusable="false"
+                />
+
+            <Button
+                android:id="@+id/test_type_reported"
+                style="@style/test_type_stutas"
+                android:layout_width="70.0dip"
+                android:layout_height="25.0dip"
+                android:background="@drawable/test_end_btn_report_selector"
+                android:text="@string/test_status_reported" 
+                 android:focusable="false"
+                />
+
+            <Button
+                android:id="@+id/test_type_check"
+                style="@style/test_type_stutas"
+                  android:layout_width="70.0dip"
+                android:layout_height="25.0dip"
+                android:background="@drawable/test_end_btn_report_selector"
+                android:text="@string/test_status_check" 
+                 android:focusable="false"
+                />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

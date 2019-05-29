@@ -1,0 +1,16 @@
+<resources>
+	<string name="title_player">心理训练</string>
+	<string name="category_1">积极心里开发</string>
+	<string name="category_2">社会适应训练</string>
+	<string name="category_3">抗焦虑训练</string>
+	<string name="category_4">心态训练</string>
+	<string name="category_5">情商训练</string>
+	<string name="category_6">危机干预</string>
+	<string name="category_7">认知训练</string>
+	<string name="item_1">酒窝大道</string>	
+	<string name="item_2">快乐敲石工</string>
+	<string name="item_3">快乐无价</string>
+	<string name="item_4">都是降价惹的祸</string>
+	<string name="item_5">抱怨的重量</string>
+	<string name="item_6">两个水桶</string>
+</resources>

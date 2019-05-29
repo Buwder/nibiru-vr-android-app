@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="text_tip_style">
+        <item name="android:textColor">@color/highlight</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+    
+</resources>

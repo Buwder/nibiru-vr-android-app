@@ -1,0 +1,84 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="index_text">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+        <style name="index_image_line">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/index_line_level</item>
+    </style>
+	<style name="music_play_time" >
+	    <item name="android:text">00:00</item>
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">11sp</item>
+	    <item name="android:singleLine">true</item>
+	   <!--  <item name="android:gravity">center_vertical</item> -->
+	</style>
+	
+	<style name="music_name">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">11sp</item>
+	    <item name="android:text">当前曲目:</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	<style name="music_tab">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">15sp</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	<style name="music_dialog_timer_subtitle">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">14sp</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	<style name="music_dialog_timer_edit">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">25sp</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	    <style name="music_dialog_timer" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+	<style name="test_progress">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">10sp</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	<style name="test_subtitle">
+	    <item name="android:textColor">@color/black</item>
+	    <item name="android:textSize">20sp</item>
+	    <item name="android:singleLine">true</item>
+	</style>
+	<style name="test_content">
+	    <item name="android:textColor">@color/DimGray</item>
+	    <item name="android:textSize">16sp</item>
+	</style>
+	    <style name="test_radio_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/gray1</item>
+    </style>
+    <style name="test_type_stutas">
+        <item name="android:textSize">11.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:focusable">false</item>
+    </style>
+    <style name="movie_play_time" >
+	    <item name="android:text">00:00</item>
+	    <item name="android:textColor">@color/white</item>
+	    <item name="android:textSize">13sp</item>
+	    <item name="android:singleLine">true</item>
+	   <!--  <item name="android:gravity">center_vertical</item> -->
+	</style>
+	<style name="chat_content">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+	<style name="channel_detail">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+	
+</resources>

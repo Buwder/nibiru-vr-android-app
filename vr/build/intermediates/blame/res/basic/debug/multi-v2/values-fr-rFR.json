@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\incremental\\mergeBasicDebugResources\\merged.dir\\values-fr-rFR\\values-fr-rFR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Buwder\\.gradle\\caches\\transforms-1\\files-1.1\\nibiru_studio_2_6_223.aar\\349e1ed37fd8ef17f6763255d05d3669\\res\\values-fr-rFR\\values-fr-rFR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,150,233,287,340,388",
+                        "endColumns": "94,82,53,52,47,111",
+                        "endOffsets": "145,228,282,335,383,495"
+                    }
+                }
+            ]
+        }
+    ]
+}

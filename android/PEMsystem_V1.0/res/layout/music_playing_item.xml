@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/music_list_item_state"
+    android:gravity="center_vertical"
+    >
+	<RelativeLayout 
+	    android:id="@+id/music_playinglist_item"
+	    android:layout_width="match_parent"
+	    android:layout_height="65dp"
+	    android:orientation="horizontal"
+	    android:gravity="center_vertical"
+	    
+	    >
+	    <TextView 
+	        android:id="@+id/music_playing_num"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="15dp"
+	        android:text="1"
+	        android:textColor="@color/black"
+	        android:layout_alignParentLeft="true"
+	        android:layout_centerVertical="true"
+	        />
+        <ImageView 
+	        android:id="@+id/music_playing_title_image"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="12dp"
+	        android:layout_alignParentLeft="true"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/music_playinglist_play"
+	        android:visibility="gone"
+	        />
+	    <TextView 
+	        android:id="@+id/music_playing_item_1"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:text="焦虑治疗音乐2"
+	        android:textColor="@color/black"
+	        android:textSize="16sp"
+	        android:gravity="center_vertical"
+	        android:singleLine="true"
+	        android:layout_marginLeft="15dp"
+	        android:layout_marginRight="15dp"
+	        android:layout_toRightOf="@+id/music_playing_num"
+	        android:layout_toLeftOf="@+id/music_playing_button_delete_1"
+	        android:layout_centerVertical="true"
+	        />
+	    <!-- <Button 
+	        android:id="@+id/music_playing_button_play_1"
+	        android:layout_width="25dp"
+	        android:layout_height="25dp"
+	        android:background="@drawable/music_button_play"
+	        android:layout_marginRight="15dp"
+	        /> -->
+	     <Button 
+	       android:id="@+id/music_playing_button_delete_1"
+	       android:layout_width="30dp"
+	       android:layout_height="30dp"
+	       android:background="@drawable/music_delete"
+	       android:layout_marginRight="20dp"
+	       android:focusable="false"
+	       android:layout_alignParentRight="true"
+	       android:layout_centerVertical="true"
+	       />
+	</RelativeLayout>
+</LinearLayout>

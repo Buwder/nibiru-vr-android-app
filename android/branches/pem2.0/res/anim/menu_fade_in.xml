@@ -1,0 +1,14 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false"
+    >
+    <alpha
+           android:fromAlpha="0"
+           android:toAlpha="1.0"
+           android:duration="@integer/anim_short"
+           />
+    <translate
+        android:fromYDelta="50%p"
+        android:toYDelta="50%"
+        android:duration="@integer/anim_short"
+        />
+</set>

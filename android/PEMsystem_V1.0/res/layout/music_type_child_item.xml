@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+     android:background="@drawable/report_list_item_state_bg"
+     android:gravity="center_vertical"
+     >
+
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+       
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp" >
+
+        <TextView
+            android:id="@+id/music_type_item"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:text="抗焦虑训练"
+            android:textColor="@color/black"
+            android:textSize="16sp" 
+            android:layout_marginLeft="10dp"
+            />
+        
+        <CheckBox 
+            android:id="@+id/music_type_checkbox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:focusable="false"
+           android:button="@drawable/music_type_checkbox_selector"
+            />
+        <!-- <ToggleButton 
+         
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="@string/delete"
+            android:textOff="@string/add"
+            android:textColor="#009f00"
+            android:textSize="12sp"
+            android:layout_marginRight="5dp"
+            /> -->
+       
+    </LinearLayout>
+
+</LinearLayout>

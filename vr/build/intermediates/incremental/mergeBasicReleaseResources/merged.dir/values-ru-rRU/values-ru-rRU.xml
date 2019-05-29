@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Нажмите и удерживайте N для калибровки</string>
+    <string name="dialog_on_lowbattery">Низкий заряд батареи, пожалуйста, зарядите</string>
+    <string name="dialog_power_off">Выключить питание</string>
+    <string name="dialog_reboot">Перезапуск</string>
+    <string name="ns_commit">OK</string>
+    <string name="ns_repos_tip">Нажмите тачпад для перемещения меню</string>
+</resources>

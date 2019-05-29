@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="button_name">
+        <item>积极心态培养</item>
+        <item>快乐工作</item>
+        <item>幸福家庭</item>
+        <item>心理处方</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Appuyez et maintenez N pour calibrer</string>
+    <string name="dialog_on_lowbattery">Batterie faible, veuillez charger</string>
+    <string name="dialog_power_off">Éteindre</string>
+    <string name="dialog_reboot">Redémarrer</string>
+    <string name="ns_commit">Confirmer</string>
+    <string name="ns_repos_tip">Cliquer sur le bouton OK pour régler le positionnement de l\'interface</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<host_array>
+	
+<!-- 	<host
+        city="XiAn"
+        ip="192.168.1.231:8080/android" /> -->
+    
+    
+    <host
+        city="XiAn"
+        ip="mobile.pems.cn" />
+
+  <!--   <host
+        city="BeiJin"
+        ip="bj-mobile.pems.cn" /> -->
+
+</host_array>

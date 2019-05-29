@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Long press N key to recenter first</string>
+    <string name="dialog_on_lowbattery">Low power! Please charge.</string>
+    <string name="dialog_power_off">Power off</string>
+    <string name="dialog_reboot">Reboot</string>
+    <string name="ns_commit">OK</string>
+    <string name="ns_repos_tip">Tap OK button to reposition</string>
+</resources>

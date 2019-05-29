@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">Premere e tenere premuto N per calibrare</string>
+    <string name="dialog_on_lowbattery">Batteria scarica, si prega di caricare</string>
+    <string name="dialog_power_off">Spegni</string>
+    <string name="dialog_reboot">Riavvia</string>
+    <string name="ns_commit">Conferma</string>
+    <string name="ns_repos_tip">Clicca OK, regolare la posizione dell\'interfaccia</string>
+</resources>

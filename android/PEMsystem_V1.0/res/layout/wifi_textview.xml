@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zskx.pemsystem.customview.WifiTextView xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:id="@+id/wifiNetWorkState"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:text="@string/change_to_wifi"
+    android:textColor="@color/black"
+    android:background="#B9D3EE"
+    android:gravity="center"
+    android:visibility="gone"
+    />

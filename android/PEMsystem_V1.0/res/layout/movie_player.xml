@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignTop="@+id/surfaceView"
+        android:background="@drawable/movie_playing_title_bg"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/text_movie_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="中国式欲望-国产大片《白鹿原》.avi" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@+id/surfaceView"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@drawable/movie_playing_progress_bg"
+            android:gravity="center" >
+
+            <TextView
+                android:id="@+id/courrentPosition"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="15dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="00:00"
+                android:textColor="#6495ED"
+                android:textSize="14sp" />
+
+   
+            <SeekBar
+                android:id="@+id/movieProgress_seekbar"
+                android:layout_width="400dp"
+                android:layout_height="wrap_content"
+                android:maxHeight="8dp"
+                android:minHeight="8dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:progressDrawable="@drawable/seekbar_movie_playing"
+                android:thumb="@drawable/select_movie_playing_thum"
+                android:max="100"
+                android:secondaryProgress="0"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/duration"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="00:00"
+                android:textColor="@color/white"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/movie_playing_control_bg" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center_vertical" >
+
+                <Button
+                    android:id="@+id/prevMovie"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/select_movie_playing_control_btn_prev" />
+
+                <ImageButton
+                    android:id="@+id/pauseOrPlay"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:background="#00000000"
+                    android:src="@drawable/select_movie_playing_control_btn_pause" />
+
+                <Button
+                    android:id="@+id/nextMovie"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:background="@drawable/select_movie_playing_control_btn_next" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/voiceControl"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="25dp"
+                android:background="@drawable/select_movie_playing_control_btn_voice"
+                android:layout_centerVertical="true"
+                 />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/movie_loading_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+       
+        />
+
+</RelativeLayout>

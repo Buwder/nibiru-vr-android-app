@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_on_deviceconnect_first">กดปุ่ม N เพื่อปรับเทียบ</string>
+    <string name="dialog_on_lowbattery">แบตเตอรี่อ่อนโปรดชาร์จ</string>
+    <string name="dialog_power_off">ปิดเครื่อง</string>
+    <string name="dialog_reboot">เข้าสู่</string>
+    <string name="ns_commit">รีสตาร์ท</string>
+    <string name="ns_repos_tip">แตะปุ่ม OK เพื่อเปลี่ยนตำแหน่ง</string>
+</resources>

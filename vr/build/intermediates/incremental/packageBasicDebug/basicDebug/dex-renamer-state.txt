@@ -1,0 +1,4 @@
+#Fri Dec 28 09:30:51 CST 2018
+base.0=E\:\\Android\\project\\PEM-MXXL\\vr\\build\\intermediates\\transforms\\dexMerger\\basic\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

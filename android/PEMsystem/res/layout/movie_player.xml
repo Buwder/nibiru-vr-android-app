@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+    <LinearLayout 
+      android:id="@+id/top"
+      android:layout_width="match_parent"
+      android:layout_height="40dp"
+      android:layout_alignTop="@+id/surfaceView"
+      android:background="#0fffffff"
+      android:gravity="center"
+     >
+     
+          <TextView 
+            android:id="@+id/courrentPosition"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:text="00:00"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            />
+        
+           <SeekBar
+               android:id="@+id/movieProgress_seekbar" 
+               android:layout_width="0dp"
+               android:layout_height="20dp"
+               android:layout_weight="6"
+               android:max="100"
+               android:progress="0"
+               />
+        <TextView 
+            android:id="@+id/duration"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="15dp"
+            android:gravity="center"
+            android:text="00:00"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            />
+        
+        
+        
+     </LinearLayout>
+
+    <LinearLayout 
+      android:id="@+id/bottom"
+      android:layout_width="match_parent"
+      android:layout_height="80dp"
+      android:layout_alignBottom="@+id/surfaceView"
+      android:background="#0fffffff"
+      android:gravity="center"
+      >
+      <SeekBar 
+            android:id="@+id/vioce_seekbar"          
+            android:layout_width="400dp"
+            android:layout_height="20dp"
+            android:max="100"
+            android:progress="10"
+            />
+        
+      </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/movie_loading_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

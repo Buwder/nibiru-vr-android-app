@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:descendantFocusability="blocksDescendants"
+    android:background="@drawable/report_list_item_state_bg" 
+    >
+    
+    
+    
+    <ImageView 
+        android:id="@+id/imageView_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/report_list_item_pic"
+        android:layout_margin="5dp"
+        />
+     
+    
+    <LinearLayout 
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        
+        >
+        
+        <TextView 
+            android:id="@+id/textView_item_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_marginTop="5dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:text="热热热热热热热热热热热rer热热热热热热热热热热热若"
+            />
+        <TextView 
+            android:id="@+id/textView_item_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textSize="13sp"
+            android:textColor="@color/DimGray"
+            android:text="@string/report_item_content"
+            />
+         <TextView 
+          android:id="@+id/textView_date"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="5dp"
+          android:textSize="13sp"
+          android:textColor="@color/clear_green"
+          android:text="2012-09-23"
+          />
+        
+    </LinearLayout>
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ico_gt"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_gravity="center_vertical"/>
+
+</LinearLayout>

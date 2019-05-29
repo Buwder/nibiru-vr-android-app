@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Android\project\PEM-MXXL\vr\src\main\jniLibs"/></dataSet><dataSet config="basic"><source path="E:\Android\project\PEM-MXXL\vr\src\basic\jniLibs"/></dataSet><dataSet config="release"><source path="E:\Android\project\PEM-MXXL\vr\src\release\jniLibs"/></dataSet><dataSet config="basicRelease"><source path="E:\Android\project\PEM-MXXL\vr\src\basicRelease\jniLibs"/></dataSet></merger>

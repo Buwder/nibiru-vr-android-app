@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/login_bg"
+    >
+   <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="@string/title_activity_main"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:background="@drawable/login_title_bg"
+        android:textSize="20sp"
+        />
+   
+       <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center" 
+        android:orientation="vertical"
+        >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+        <Button
+            android:id="@+id/kaishi_test_report"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/test_report" 
+            />
+
+        <Button
+            android:id="@+id/kaishi_musical_therapy"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/musical_therapy" 
+            />
+    </LinearLayout>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip"
+        android:gravity="center" >
+        <Button
+            android:id="@+id/kaishi_category1_decompression"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/category1_decompression" 
+            />
+
+        <Button
+            android:id="@+id/kaishi_category2_psycho_train"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/category2_psycho_train" 
+            />
+    </LinearLayout>    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip"
+        android:gravity="center" >
+        <Button
+            android:id="@+id/kaishi_category3_psycho_games"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/category3_psycho_games" 
+            />
+ 
+        <Button
+            android:id="@+id/kaishi_category4_positive_mental"
+            android:layout_width="98dp"
+            android:layout_height="116dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/category4_positive_mental" 
+            />
+    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

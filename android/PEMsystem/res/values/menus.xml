@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_page">主页</string>
+    <string name="settings">设置</string>
+    <string name="feed_back">反馈</string>
+    <string name="loginout">注销</string>
+    <string name="exit">退出</string>
+</resources>

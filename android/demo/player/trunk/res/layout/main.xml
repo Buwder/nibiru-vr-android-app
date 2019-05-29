@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/main_bg" >
+
+    
+    <com.zskx.view.MainMenuLayout
+        android:id="@+id/menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal" />
+    
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_above="@id/menu"
+        >
+
+        <FrameLayout
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_alignParentTop="true"
+        	android:background="@drawable/panel_title"
+            >
+
+            <TextView
+                android:id="@+id/function_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="10dip"
+                android:textAppearance="@style/white_15sp_normal" />
+
+            <ImageView
+                android:id="@+id/exit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="10dip"
+                android:src="@drawable/ico_exit" />
+        </FrameLayout>
+        <FrameLayout 
+            android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:layout_below="@id/title"
+        	android:background="@drawable/panel_content"
+            >
+            <!-- 在这儿添加功能的操作显示界面 -->
+            <com.zskx.view.music.MusicLayout
+                android:id="@+id/musicLayout"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:visibility="gone"
+                />
+            <com.zskx.view.video.MovieLayout
+                android:id="@+id/movieLayout"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:visibility="gone"
+                />
+            <com.zskx.view.video.RelaxLayout
+                android:id="@+id/relaxLayout"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:visibility="gone"
+                />
+            <com.zskx.view.video.CrisisLayout
+                android:id="@+id/crisisLayout"
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+        		android:layout_height="wrap_content"
+        		android:visibility="gone"
+                />
+        </FrameLayout>
+    </RelativeLayout>
+
+       
+
+</RelativeLayout>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="328dip"
+    android:orientation="vertical"
+    android:paddingLeft="40dip"
+     >
+   
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_weight="1"
+         android:gravity="center_vertical"
+         android:layout_marginTop="5dip"
+         >
+         <LinearLayout 
+             android:id="@+id/sound_player_1_back"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center">
+         <ImageButton 
+             android:id="@+id/sound_player_1"
+             android:layout_width="30dip"
+             android:layout_height="30dip"
+             android:src="@drawable/pic002"
+             android:background="#00000000"/>
+         </LinearLayout>
+         <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="15dip">
+              <TextView 
+                  android:id="@+id/sound_name_1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="pick sound"
+                  android:textSize="14sp"
+                  android:textColor="#ffffff"
+                  />
+              <LinearLayout 
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:layout_marginTop="5dip">
+                  <SeekBar 
+                      android:id="@+id/seekBar_1"
+                      android:layout_width="455dp"
+                      android:max="100"
+                      android:progress="40"
+                      android:layout_height="wrap_content"
+                     />
+                  <TextView 
+                      android:id="@+id/sound_volume_1"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:paddingLeft="15dip"
+                      android:text="vol.40%"
+                      android:textSize="14sp"
+                      android:textColor="#ffffff"/>
+                  
+              </LinearLayout>
+             
+         </LinearLayout>
+     </LinearLayout>
+     
+     
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_weight="1"
+         android:gravity="center_vertical"
+         android:layout_marginTop="5dip"
+         >
+         <LinearLayout 
+             android:id="@+id/sound_player_2_back"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center">
+         <ImageButton 
+             android:id="@+id/sound_player_2"
+             android:layout_width="30dip"
+             android:layout_height="30dip"
+             android:src="@drawable/pic002"
+             android:background="#00000000"/>
+         </LinearLayout>
+         <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="15dip">
+              <TextView 
+                  android:id="@+id/sound_name_2"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="pick sound"
+                   android:textSize="14sp"
+                  android:textColor="#ffffff"/>
+              <LinearLayout 
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:layout_marginTop="5dip">
+                  <SeekBar 
+                      android:id="@+id/seekBar_2"
+                      android:layout_width="455dip"
+                      android:max="100"
+                      android:progress="40"
+                      android:layout_height="wrap_content"
+                      />
+                  <TextView 
+                      android:id="@+id/sound_volume_2"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:paddingLeft="15dip"
+                      android:text="vol.40%"
+                      android:textSize="14sp"
+                      android:textColor="#ffffff"/>
+                  
+              </LinearLayout>
+             
+         </LinearLayout>
+     </LinearLayout>
+     
+     
+     
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_weight="1"
+         android:gravity="center_vertical"
+         android:layout_marginTop="5dip"
+         >
+         <LinearLayout 
+             android:id="@+id/sound_player_3_back"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center">
+         <ImageButton 
+             android:id="@+id/sound_player_3"
+             android:layout_width="30dip"
+             android:layout_height="30dip"
+             android:src="@drawable/pic002"
+             android:background="#00000000"/>
+         </LinearLayout>
+         <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="15dip">
+              <TextView 
+                  android:id="@+id/sound_name_3"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="pick sound"
+                   android:textSize="14sp"
+                  android:textColor="#ffffff"/>
+              <LinearLayout 
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:layout_marginTop="5dip">
+                  <SeekBar 
+                      android:id="@+id/seekBar_3"
+                      android:layout_width="455dp"
+                      android:max="100"
+                      android:progress="40"
+                      android:layout_height="wrap_content"
+                      />
+                  <TextView 
+                      android:id="@+id/sound_volume_3"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:paddingLeft="15dip"
+                      android:text="vol.40%"
+                      android:textSize="14sp"
+                      android:textColor="#ffffff"/>
+                  
+              </LinearLayout>
+             
+         </LinearLayout>
+     </LinearLayout>
+     
+     
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_weight="1"
+         android:gravity="center_vertical"
+         android:layout_marginTop="5dip"
+         >
+         <LinearLayout 
+             android:id="@+id/sound_player_4_back"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center">
+         <ImageButton 
+             android:id="@+id/sound_player_4"
+             android:layout_width="30dip"
+             android:layout_height="30dip"
+             android:src="@drawable/pic002"
+             android:background="#00000000"/>
+         </LinearLayout>
+         <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="15dip">
+              <TextView 
+                  android:id="@+id/sound_name_4"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="pick sound"
+                   android:textSize="14sp"
+                  android:textColor="#ffffff"/>
+              <LinearLayout 
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:layout_marginTop="5dip">
+                  <SeekBar 
+                      android:id="@+id/seekBar_4"
+                      android:layout_width="455dp"
+                      android:max="100"
+                      android:progress="40"
+                      android:layout_height="wrap_content"
+                      />
+                  <TextView 
+                      android:id="@+id/sound_volume_4"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:paddingLeft="15dip"
+                      android:text="vol.40%"
+                      android:textSize="14sp"
+                      android:textColor="#ffffff"/>
+                  
+              </LinearLayout>
+             
+         </LinearLayout>
+     </LinearLayout>
+     
+     
+     <LinearLayout 
+         android:layout_width="match_parent"
+         android:layout_height="0dip"
+         android:layout_weight="1"
+         android:gravity="center_vertical"
+         android:layout_marginTop="5dip"
+         >
+         <LinearLayout 
+             android:id="@+id/sound_player_5_back"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:gravity="center">
+         <ImageButton 
+             android:id="@+id/sound_player_5"
+             android:layout_width="30dip"
+             android:layout_height="30dip"
+             android:layout_gravity="center_horizontal"
+             android:scaleType="centerInside"
+             android:src="@drawable/pic002"
+             android:background="#00000000"/>
+         </LinearLayout>
+         <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:layout_marginLeft="15dip">
+              <TextView 
+                  android:id="@+id/sound_name_5"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="pick sound"
+                   android:textSize="14sp"
+                  android:textColor="#ffffff"/>
+              <LinearLayout 
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center_vertical"
+                  android:layout_marginTop="10dip">
+                  <SeekBar 
+                      android:id="@+id/seekBar_5"
+                      android:layout_width="455dp"
+                      android:max="100"
+                      android:progress="40"
+                      android:layout_height="wrap_content"
+                      />
+                  <TextView 
+                      android:id="@+id/sound_volume_5"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:paddingLeft="15dip"
+                      android:text="vol.40%"
+                      android:textSize="14sp"
+                     android:textColor="#ffffff"/>
+                  
+              </LinearLayout>
+             
+         </LinearLayout>
+     </LinearLayout>
+     
+    
+
+</LinearLayout>

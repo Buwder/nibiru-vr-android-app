@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/test_end_lyt"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:visibility="visible" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ico_testend" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10.0dip"
+            android:text="@string/test_end_text"
+            android:textColor="@color/Green"
+            android:textSize="30.0sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/test_end_next"
+        style="@style/test_subtitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30.0dip"
+        android:gravity="center"
+        android:text="@string/test_progress" />
+
+    <Button
+        android:id="@+id/test_end_btn_next"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30.0dip"
+        android:background="@drawable/test_start_btn_selector"
+        android:text="@string/test_end_next"
+        android:textColor="@color/white"
+        android:textSize="17.0sp" />
+
+    <Button
+        android:id="@+id/test_end_btn_stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10.0dip"
+        android:background="@drawable/test_end_btn_report_selector"
+        android:text="@string/test_end_report"
+        android:textColor="@color/white"
+        android:textSize="17.0sp" />
+
+</LinearLayout>
